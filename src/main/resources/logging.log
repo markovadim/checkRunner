@@ -1,0 +1,283 @@
+2022-01-29 00:31:22 INFO  ReceiptRunner:14 - Parse input line
+2022-01-29 00:31:22 INFO  InputDataParser:33 - The number 1 was found
+2022-01-29 00:31:22 INFO  InputDataParser:33 - The number 6 was found
+2022-01-29 00:31:22 INFO  InputDataParser:33 - The number 2 was found
+2022-01-29 00:31:22 INFO  InputDataParser:33 - The number 2 was found
+2022-01-29 00:31:22 INFO  InputDataParser:33 - The number 3 was found
+2022-01-29 00:31:22 INFO  InputDataParser:33 - The number 1 was found
+2022-01-29 00:31:22 INFO  InputDataParser:33 - The number 4 was found
+2022-01-29 00:31:22 INFO  InputDataParser:33 - The number 2 was found
+2022-01-29 00:31:22 INFO  InputDataParser:33 - The number 5 was found
+2022-01-29 00:31:22 INFO  InputDataParser:33 - The number 5 was found
+2022-01-29 00:31:22 INFO  InputDataParser:33 - The number 6 was found
+2022-01-29 00:31:22 INFO  InputDataParser:33 - The number 1 was found
+2022-01-29 00:31:22 INFO  InputDataParser:29 - The card with number 1221 was found
+2022-01-29 00:31:22 INFO  InputDataParser:41 - The product id 1 was added
+2022-01-29 00:31:22 INFO  InputDataParser:44 - The amount of products 6 was added
+2022-01-29 00:31:22 INFO  InputDataParser:41 - The product id 2 was added
+2022-01-29 00:31:22 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-01-29 00:31:22 INFO  InputDataParser:41 - The product id 3 was added
+2022-01-29 00:31:22 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-01-29 00:31:22 INFO  InputDataParser:41 - The product id 4 was added
+2022-01-29 00:31:22 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-01-29 00:31:22 INFO  InputDataParser:41 - The product id 5 was added
+2022-01-29 00:31:22 INFO  InputDataParser:44 - The amount of products 5 was added
+2022-01-29 00:31:22 INFO  InputDataParser:41 - The product id 6 was added
+2022-01-29 00:31:22 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-01-29 00:31:22 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-01-29 00:31:22 INFO  ShopBasketCreator:27 - Product <Broad> was put in the basket
+2022-01-29 00:31:22 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-01-29 00:31:22 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-01-29 00:31:22 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-01-29 00:31:22 INFO  ShopBasketCreator:27 - Product <Banana> was put in the basket
+2022-01-29 00:31:22 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-01-29 00:31:22 INFO  PaymentHandler:23 - The payment.
+2022-01-29 00:31:22 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-01-29 00:31:22 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-01-29 00:31:22 INFO  PaymentHandler:42 - Created the receipt
+2022-01-29 00:31:22 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-01-31 21:15:29 INFO  CashierCreator:22 - Cashier with name Wrong Name not found
+2022-01-31 21:17:52 INFO  CashierCreator:22 - Cashier with name Wrong Name not found
+2022-01-31 21:19:53 INFO  CashierCreator:22 - Cashier with name Wrong Name not found
+2022-01-31 21:20:55 INFO  CashierCreator:22 - Cashier with name Wrong Name not found
+2022-01-31 21:23:53 INFO  CashierCreator:22 - Cashier with name Wrong Name not found
+2022-01-31 21:26:13 INFO  CashierCreator:22 - Cashier with name Wrong Name not found
+2022-01-31 21:27:53 INFO  CashierCreator:22 - Cashier with name Wrong Name not found
+2022-01-31 22:03:55 INFO  ReceiptRunner:14 - Parse input line
+2022-01-31 22:03:56 INFO  InputDataParser:33 - The number 1 was found
+2022-01-31 22:03:56 INFO  InputDataParser:33 - The number 6 was found
+2022-01-31 22:03:56 INFO  InputDataParser:33 - The number 2 was found
+2022-01-31 22:03:56 INFO  InputDataParser:33 - The number 2 was found
+2022-01-31 22:03:56 INFO  InputDataParser:33 - The number 3 was found
+2022-01-31 22:03:56 INFO  InputDataParser:33 - The number 1 was found
+2022-01-31 22:03:56 INFO  InputDataParser:33 - The number 4 was found
+2022-01-31 22:03:56 INFO  InputDataParser:33 - The number 2 was found
+2022-01-31 22:03:56 INFO  InputDataParser:33 - The number 5 was found
+2022-01-31 22:03:56 INFO  InputDataParser:33 - The number 5 was found
+2022-01-31 22:03:56 INFO  InputDataParser:33 - The number 6 was found
+2022-01-31 22:03:56 INFO  InputDataParser:33 - The number 1 was found
+2022-01-31 22:03:56 INFO  InputDataParser:29 - The card with number 1221 was found
+2022-01-31 22:03:56 INFO  InputDataParser:41 - The product id 1 was added
+2022-01-31 22:03:56 INFO  InputDataParser:44 - The amount of products 6 was added
+2022-01-31 22:03:56 INFO  InputDataParser:41 - The product id 2 was added
+2022-01-31 22:03:56 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-01-31 22:03:56 INFO  InputDataParser:41 - The product id 3 was added
+2022-01-31 22:03:56 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-01-31 22:03:56 INFO  InputDataParser:41 - The product id 4 was added
+2022-01-31 22:03:56 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-01-31 22:03:56 INFO  InputDataParser:41 - The product id 5 was added
+2022-01-31 22:03:56 INFO  InputDataParser:44 - The amount of products 5 was added
+2022-01-31 22:03:56 INFO  InputDataParser:41 - The product id 6 was added
+2022-01-31 22:03:56 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-01-31 22:03:56 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-01-31 22:03:56 INFO  ShopBasketCreator:27 - Product <Broad> was put in the basket
+2022-01-31 22:03:56 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-01-31 22:03:56 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-01-31 22:03:56 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-01-31 22:03:56 INFO  ShopBasketCreator:27 - Product <Banana> was put in the basket
+2022-01-31 22:03:56 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-01-31 22:03:56 INFO  PaymentHandler:23 - The payment.
+2022-01-31 22:03:56 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-01-31 22:03:56 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-01-31 22:03:56 INFO  PaymentHandler:42 - Created the receipt
+2022-01-31 22:03:56 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-01-31 23:41:01 INFO  ReceiptRunner:14 - Parse input line
+2022-01-31 23:41:01 INFO  InputDataParser:33 - The number 1 was found
+2022-01-31 23:41:01 INFO  InputDataParser:33 - The number 6 was found
+2022-01-31 23:41:01 INFO  InputDataParser:33 - The number 2 was found
+2022-01-31 23:41:01 INFO  InputDataParser:33 - The number 2 was found
+2022-01-31 23:41:01 INFO  InputDataParser:33 - The number 3 was found
+2022-01-31 23:41:01 INFO  InputDataParser:33 - The number 1 was found
+2022-01-31 23:41:01 INFO  InputDataParser:33 - The number 4 was found
+2022-01-31 23:41:01 INFO  InputDataParser:33 - The number 2 was found
+2022-01-31 23:41:01 INFO  InputDataParser:33 - The number 5 was found
+2022-01-31 23:41:01 INFO  InputDataParser:33 - The number 5 was found
+2022-01-31 23:41:01 INFO  InputDataParser:33 - The number 6 was found
+2022-01-31 23:41:01 INFO  InputDataParser:33 - The number 1 was found
+2022-01-31 23:41:01 INFO  InputDataParser:29 - The card with number 1221 was found
+2022-01-31 23:41:01 INFO  InputDataParser:41 - The product id 1 was added
+2022-01-31 23:41:01 INFO  InputDataParser:44 - The amount of products 6 was added
+2022-01-31 23:41:01 INFO  InputDataParser:41 - The product id 2 was added
+2022-01-31 23:41:01 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-01-31 23:41:01 INFO  InputDataParser:41 - The product id 3 was added
+2022-01-31 23:41:01 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-01-31 23:41:01 INFO  InputDataParser:41 - The product id 4 was added
+2022-01-31 23:41:01 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-01-31 23:41:01 INFO  InputDataParser:41 - The product id 5 was added
+2022-01-31 23:41:01 INFO  InputDataParser:44 - The amount of products 5 was added
+2022-01-31 23:41:01 INFO  InputDataParser:41 - The product id 6 was added
+2022-01-31 23:41:01 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-01-31 23:41:01 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-01-31 23:41:01 INFO  ShopBasketCreator:27 - Product <Broad> was put in the basket
+2022-01-31 23:41:01 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-01-31 23:41:01 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-01-31 23:41:01 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-01-31 23:41:01 INFO  ShopBasketCreator:27 - Product <Banana> was put in the basket
+2022-01-31 23:41:01 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-01-31 23:41:01 INFO  PaymentHandler:23 - The payment.
+2022-01-31 23:41:10 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-01-31 23:41:10 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-01-31 23:41:10 INFO  PaymentHandler:42 - Created the receipt
+2022-01-31 23:46:21 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-01-31 23:46:21 INFO  PaymentHandler:23 - The payment.
+2022-01-31 23:46:21 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-01-31 23:46:21 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-01-31 23:46:21 INFO  PaymentHandler:42 - Created the receipt
+2022-01-31 23:46:21 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-01-31 23:46:21 INFO  ReceiptRunner:14 - Parse input line
+2022-01-31 23:54:40 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-01-31 23:54:40 INFO  PaymentHandler:23 - The payment.
+2022-01-31 23:54:40 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-01-31 23:54:40 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-01-31 23:54:40 INFO  PaymentHandler:42 - Created the receipt
+2022-01-31 23:54:40 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-01-31 23:54:40 INFO  ReceiptRunner:14 - Parse input line
+2022-01-31 23:55:16 INFO  ReceiptRunner:14 - Parse input line
+2022-01-31 23:55:16 INFO  InputDataParser:33 - The number 1 was found
+2022-01-31 23:55:16 INFO  InputDataParser:33 - The number 6 was found
+2022-01-31 23:55:16 INFO  InputDataParser:33 - The number 2 was found
+2022-01-31 23:55:16 INFO  InputDataParser:33 - The number 2 was found
+2022-01-31 23:55:16 INFO  InputDataParser:33 - The number 3 was found
+2022-01-31 23:55:16 INFO  InputDataParser:33 - The number 1 was found
+2022-01-31 23:55:16 INFO  InputDataParser:33 - The number 4 was found
+2022-01-31 23:55:16 INFO  InputDataParser:33 - The number 2 was found
+2022-01-31 23:55:16 INFO  InputDataParser:33 - The number 5 was found
+2022-01-31 23:55:16 INFO  InputDataParser:33 - The number 5 was found
+2022-01-31 23:55:16 INFO  InputDataParser:33 - The number 6 was found
+2022-01-31 23:55:16 INFO  InputDataParser:33 - The number 1 was found
+2022-01-31 23:55:16 INFO  InputDataParser:29 - The card with number 1221 was found
+2022-01-31 23:55:16 INFO  InputDataParser:41 - The product id 1 was added
+2022-01-31 23:55:16 INFO  InputDataParser:44 - The amount of products 6 was added
+2022-01-31 23:55:16 INFO  InputDataParser:41 - The product id 2 was added
+2022-01-31 23:55:16 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-01-31 23:55:16 INFO  InputDataParser:41 - The product id 3 was added
+2022-01-31 23:55:16 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-01-31 23:55:16 INFO  InputDataParser:41 - The product id 4 was added
+2022-01-31 23:55:16 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-01-31 23:55:16 INFO  InputDataParser:41 - The product id 5 was added
+2022-01-31 23:55:16 INFO  InputDataParser:44 - The amount of products 5 was added
+2022-01-31 23:55:16 INFO  InputDataParser:41 - The product id 6 was added
+2022-01-31 23:55:16 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-01-31 23:55:16 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-01-31 23:55:16 INFO  ShopBasketCreator:27 - Product <Broad> was put in the basket
+2022-01-31 23:55:16 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-01-31 23:55:16 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-01-31 23:55:16 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-01-31 23:55:16 INFO  ShopBasketCreator:27 - Product <Banana> was put in the basket
+2022-01-31 23:55:16 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-01-31 23:55:16 INFO  PaymentHandler:23 - The payment.
+2022-01-31 23:55:16 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-01-31 23:55:16 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-01-31 23:55:16 INFO  PaymentHandler:42 - Created the receipt
+2022-01-31 23:55:16 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-01-31 23:55:37 INFO  ReceiptRunner:14 - Parse input line
+2022-01-31 23:55:37 INFO  InputDataParser:33 - The number 1 was found
+2022-01-31 23:55:37 INFO  InputDataParser:33 - The number 6 was found
+2022-01-31 23:55:37 INFO  InputDataParser:33 - The number 2 was found
+2022-01-31 23:55:37 INFO  InputDataParser:33 - The number 2 was found
+2022-01-31 23:55:37 INFO  InputDataParser:33 - The number 3 was found
+2022-01-31 23:55:37 INFO  InputDataParser:33 - The number 1 was found
+2022-01-31 23:55:37 INFO  InputDataParser:33 - The number 4 was found
+2022-01-31 23:55:37 INFO  InputDataParser:33 - The number 2 was found
+2022-01-31 23:55:37 INFO  InputDataParser:33 - The number 5 was found
+2022-01-31 23:55:37 INFO  InputDataParser:33 - The number 5 was found
+2022-01-31 23:55:37 INFO  InputDataParser:33 - The number 6 was found
+2022-01-31 23:55:37 INFO  InputDataParser:33 - The number 1 was found
+2022-01-31 23:55:37 INFO  InputDataParser:29 - The card with number 1221 was found
+2022-01-31 23:55:37 INFO  InputDataParser:41 - The product id 1 was added
+2022-01-31 23:55:37 INFO  InputDataParser:44 - The amount of products 6 was added
+2022-01-31 23:55:37 INFO  InputDataParser:41 - The product id 2 was added
+2022-01-31 23:55:37 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-01-31 23:55:37 INFO  InputDataParser:41 - The product id 3 was added
+2022-01-31 23:55:37 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-01-31 23:55:37 INFO  InputDataParser:41 - The product id 4 was added
+2022-01-31 23:55:37 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-01-31 23:55:37 INFO  InputDataParser:41 - The product id 5 was added
+2022-01-31 23:55:37 INFO  InputDataParser:44 - The amount of products 5 was added
+2022-01-31 23:55:37 INFO  InputDataParser:41 - The product id 6 was added
+2022-01-31 23:55:37 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-01-31 23:55:37 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-01-31 23:55:37 INFO  ShopBasketCreator:27 - Product <Broad> was put in the basket
+2022-01-31 23:55:37 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-01-31 23:55:37 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-01-31 23:55:37 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-01-31 23:55:37 INFO  ShopBasketCreator:27 - Product <Banana> was put in the basket
+2022-01-31 23:55:37 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-01-31 23:55:37 INFO  PaymentHandler:23 - The payment.
+2022-01-31 23:55:37 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-01-31 23:55:37 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-01-31 23:55:37 INFO  PaymentHandler:42 - Created the receipt
+2022-01-31 23:55:38 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-01-31 23:56:36 INFO  ReceiptRunner:14 - Parse input line
+2022-01-31 23:56:36 INFO  InputDataParser:33 - The number 1 was found
+2022-01-31 23:56:36 INFO  InputDataParser:33 - The number 6 was found
+2022-01-31 23:56:36 INFO  InputDataParser:33 - The number 2 was found
+2022-01-31 23:56:36 INFO  InputDataParser:33 - The number 2 was found
+2022-01-31 23:56:36 INFO  InputDataParser:33 - The number 3 was found
+2022-01-31 23:56:36 INFO  InputDataParser:33 - The number 1 was found
+2022-01-31 23:56:36 INFO  InputDataParser:33 - The number 4 was found
+2022-01-31 23:56:36 INFO  InputDataParser:33 - The number 2 was found
+2022-01-31 23:56:36 INFO  InputDataParser:33 - The number 5 was found
+2022-01-31 23:56:36 INFO  InputDataParser:33 - The number 5 was found
+2022-01-31 23:56:36 INFO  InputDataParser:33 - The number 6 was found
+2022-01-31 23:56:36 INFO  InputDataParser:33 - The number 1 was found
+2022-01-31 23:56:36 INFO  InputDataParser:29 - The card with number 1221 was found
+2022-01-31 23:56:36 INFO  InputDataParser:41 - The product id 1 was added
+2022-01-31 23:56:36 INFO  InputDataParser:44 - The amount of products 6 was added
+2022-01-31 23:56:36 INFO  InputDataParser:41 - The product id 2 was added
+2022-01-31 23:56:36 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-01-31 23:56:36 INFO  InputDataParser:41 - The product id 3 was added
+2022-01-31 23:56:36 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-01-31 23:56:36 INFO  InputDataParser:41 - The product id 4 was added
+2022-01-31 23:56:36 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-01-31 23:56:36 INFO  InputDataParser:41 - The product id 5 was added
+2022-01-31 23:56:36 INFO  InputDataParser:44 - The amount of products 5 was added
+2022-01-31 23:56:36 INFO  InputDataParser:41 - The product id 6 was added
+2022-01-31 23:56:36 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-01-31 23:56:36 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-01-31 23:56:36 INFO  ShopBasketCreator:27 - Product <Broad> was put in the basket
+2022-01-31 23:56:36 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-01-31 23:56:36 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-01-31 23:56:36 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-01-31 23:56:36 INFO  ShopBasketCreator:27 - Product <Banana> was put in the basket
+2022-01-31 23:56:36 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-01-31 23:56:36 INFO  PaymentHandler:23 - The payment.
+2022-01-31 23:56:36 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-01-31 23:56:36 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-01-31 23:56:36 INFO  PaymentHandler:42 - Created the receipt
+2022-01-31 23:56:36 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-02-01 00:07:05 INFO  ReceiptRunner:13 - Parse input line
+2022-02-01 00:07:05 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-02-01 00:07:05 INFO  PaymentHandler:23 - The payment.
+2022-02-01 00:07:05 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-02-01 00:07:05 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-02-01 00:07:05 INFO  PaymentHandler:42 - Created the receipt
+2022-02-01 00:07:05 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-02-01 00:21:03 INFO  ReceiptRunner:13 - Parse input line
+2022-02-01 00:21:03 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-02-01 00:21:03 INFO  PaymentHandler:23 - The payment.
+2022-02-01 00:21:03 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-02-01 00:21:03 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-02-01 00:21:03 INFO  PaymentHandler:42 - Created the receipt
+2022-02-01 00:21:03 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-02-01 00:21:13 INFO  ReceiptRunner:13 - Parse input line
+2022-02-01 00:21:13 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-02-01 00:21:13 INFO  PaymentHandler:23 - The payment.
+2022-02-01 00:21:13 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-02-01 00:21:13 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-02-01 00:21:13 INFO  PaymentHandler:42 - Created the receipt
+2022-02-01 00:21:13 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-02-01 00:22:41 INFO  ReceiptRunner:13 - Parse input line
+2022-02-01 00:22:41 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-02-01 00:22:41 INFO  PaymentHandler:23 - The payment.
+2022-02-01 00:22:41 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-02-01 00:22:41 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-02-01 00:22:41 INFO  PaymentHandler:42 - Created the receipt
+2022-02-01 00:22:41 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-02-01 00:37:49 INFO  ReceiptRunner:13 - Parse input line
+2022-02-01 00:37:50 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-02-01 00:37:50 INFO  PaymentHandler:23 - The payment.
+2022-02-01 00:37:50 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-02-01 00:37:50 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-02-01 00:37:50 INFO  PaymentHandler:42 - Created the receipt
+2022-02-01 00:37:50 INFO  PaymentHandler:46 - The receipt was recorded in the txt file

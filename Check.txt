@@ -1,0 +1,14 @@
+           CASH RECEIPT
+          SUPERMARKET 123
+    12, MILKYWAY Galaxy/Earth
+        Tel :123-456-7890
+
+CASHIER#133              DATE:01/02/22
+                                 00:37
+______________________________________
+QTY    DESCRIPTION     PRICE     TOTAL
+
+======================================
+TAXABLE TOT.: $                    0,0
+VAT10%: $                          0,0
+TOTAL: $                           0,0
