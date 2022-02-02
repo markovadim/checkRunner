@@ -1,9 +1,13 @@
 # checkRunner
 
-Run the application with the help console:  
+Run the source file with the help console:  
 ***java ReceiptRunner 1-2 2-2 3-1 4-5 card-1331*** (with input arguments and the discount card)  
 -first position of numbers: id of product  
 -second position of number: amount of products  
+  
+  Run the application ***(checkRunner.jar)*** with the help console:  
+***java -jar checkRunner 1-2 2-2 3-1 4-5 card-1331*** (with input arguments and the discount card)  
+Path jar: out\artifacts\checkRunner_jar\checkRunner.jar
 _________________________
  
  | id | Product | Price | Sale |
