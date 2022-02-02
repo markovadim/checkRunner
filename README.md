@@ -10,7 +10,7 @@ Run the source file via console:
 ***Quick start***  
 
   Run the jar file via console:  
-***java -jar checkRunner 1-2 2-2 3-1 4-5 card-1331*** (with input arguments and the discount card)  
+***java -jar checkRunner.jar 1-2 2-2 3-1 4-5 card-1331*** (with input arguments and the discount card)  
 Jar path: out\artifacts\checkRunner_jar\checkRunner.jar
 _________________________
  
