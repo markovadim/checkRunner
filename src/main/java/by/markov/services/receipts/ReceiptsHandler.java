@@ -1,5 +1,6 @@
 package by.markov.services.receipts;
 
+import by.markov.ReceiptRunner;
 import by.markov.models.Cashier;
 import by.markov.models.Receipt;
 import by.markov.models.Supermarket;
@@ -62,7 +63,10 @@ public class ReceiptsHandler {
     public void getReceipt(Receipt receipt) throws Exception {
         ReceiptsHandler handler = new ReceiptsHandler();
         File file = handler.create();
-        File file2 = handler.write(receipt, file);
-        handler.display(file2);
+        handler.write(receipt, file);
+        if (!ReceiptRunner.isAppRunViaCommandLine){
+            handler.display(file);
+        }
+
     }
 }
