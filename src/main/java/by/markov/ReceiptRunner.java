@@ -3,11 +3,19 @@ package by.markov;
 import org.apache.log4j.Logger;
 import by.markov.services.InputDataParser;
 
+import java.io.Console;
+
 public class ReceiptRunner {
 
     static final Logger logger = Logger.getLogger(ReceiptRunner.class);
+    public static boolean isAppRunViaCommandLine = false;
 
     public static void main(String[] args) throws Exception {
+        Console console = System.console();
+        if (console != null || args.length > 0) {
+            isAppRunViaCommandLine = true;
+        }
+
         InputDataParser inputDataParser = new InputDataParser();
         try {
             logger.info("Parse input line");
