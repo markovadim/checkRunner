@@ -9,3 +9,6 @@
 /.idea/
 /out/
 /target/
+.gradle/
+gradle/
+target/

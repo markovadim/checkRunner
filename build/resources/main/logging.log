@@ -900,19 +900,3 @@
 2022-03-29 15:14:21 INFO  InputDataParser:44 - The amount of products 0 was added
 2022-03-29 15:14:21 INFO  InputDataParser:41 - The product id 8 was added
 2022-03-29 15:14:21 INFO  InputDataParser:44 - The amount of products 8 was added
-2022-03-29 15:14:32 INFO  InputDataParser:33 - The number 6543542 was found
-2022-03-29 15:14:32 INFO  InputDataParser:33 - The number 666 was found
-2022-03-29 15:14:32 INFO  InputDataParser:33 - The number 2 was found
-2022-03-29 15:14:32 INFO  InputDataParser:33 - The number 2 was found
-2022-03-29 15:14:32 INFO  InputDataParser:33 - The number 34 was found
-2022-03-29 15:14:32 INFO  InputDataParser:33 - The number 0 was found
-2022-03-29 15:14:32 INFO  InputDataParser:33 - The number 8 was found
-2022-03-29 15:14:32 INFO  InputDataParser:33 - The number 8 was found
-2022-03-29 15:14:32 INFO  InputDataParser:41 - The product id 6543542 was added
-2022-03-29 15:14:32 INFO  InputDataParser:44 - The amount of products 666 was added
-2022-03-29 15:14:32 INFO  InputDataParser:41 - The product id 2 was added
-2022-03-29 15:14:32 INFO  InputDataParser:44 - The amount of products 2 was added
-2022-03-29 15:14:32 INFO  InputDataParser:41 - The product id 34 was added
-2022-03-29 15:14:32 INFO  InputDataParser:44 - The amount of products 0 was added
-2022-03-29 15:14:32 INFO  InputDataParser:41 - The product id 8 was added
-2022-03-29 15:14:32 INFO  InputDataParser:44 - The amount of products 8 was added
