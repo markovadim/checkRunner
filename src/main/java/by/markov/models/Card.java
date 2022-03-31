@@ -10,4 +10,7 @@ public class Card {
         this.number = number;
     }
 
+    public int getNumber() {
+        return number;
+    }
 }

@@ -21,7 +21,7 @@ dependencies {
 group = 'by.markov'
 version = '1.0-SNAPSHOT'
 description = 'checkRunner'
-java.sourceCompatibility = JavaVersion.VERSION_1_8
+java.sourceCompatibility = JavaVersion.VERSION_1_9
 
 publishing {
     publications {
@@ -30,3 +30,4 @@ publishing {
         }
     }
 }
+targetCompatibility = JavaVersion.VERSION_1_9

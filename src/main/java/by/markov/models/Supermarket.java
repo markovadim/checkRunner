@@ -12,6 +12,10 @@ public class Supermarket {
         this.phone = phone;
     }
 
+    public String getName() {
+        return name;
+    }
+
     @Override
     public String toString() {
         return String.format("%25s%n%29s%n%25s%n",name,address,phone);

@@ -2,39 +2,40 @@ package by.markov.services;
 
 import org.junit.Before;
 import org.junit.Test;
-import java.util.ArrayList;
+import org.mockito.Mockito;
+
 import static org.junit.Assert.*;
+
+import java.util.ArrayList;
 
 public class InputDataParserTest {
 
-    InputDataParser ip;
-    ArrayList<Integer> out;
+    //    InputDataParser ip = Mockito.mock(InputDataParser.class);
+    InputDataParser ip = new InputDataParser();
+
+    String[] args = new String[]{"1-1", "3-2", "4-4", "5-1"};
+    String[] argsWithException = new String[]{"1as51", "3*2", "4-4", "3e1"};
+    ArrayList<Integer> ids;
+
 
     @Before
-    public void createInstanceof() {
-         ip = new InputDataParser();
+    public void init() throws Exception {
+//        Mockito.when(ip.parseInputArguments(argsWithException)).thenReturn(new String[]{"1", "3", "4", "5"});
+        ids = new ArrayList<>();
+        ids.add(1);
+        ids.add(3);
+        ids.add(4);
+        ids.add(5);
     }
-
 
     @Test
-    public void parseInputArguments() throws Exception {
-        String[] input = ip.parseInputArguments(new String[]{"1-1", "2-2", "1-0", "8-8"});
-        out = new ArrayList<>();
-        out.add(1);
-        out.add(2);
-        out.add(1);
-        out.add(8);
-        assertEquals(ip.idsOfProducts, out);
+    public void parseInput() throws Exception {
+        ip.parseInputArguments(args);
+        assertEquals(ip.idsOfProducts, ids);
     }
 
-    @Test(expected = Exception.class)
-    public void parseWithException() throws Exception {
-        String[] input = ip.parseInputArguments(new String[]{"6543542-666", "2-2", "34-0", "8-8"});
-        out = new ArrayList<>();
-        out.add(1);
-        out.add(2);
-        out.add(1);
-        out.add(8);
-        assertNotEquals(ip.idsOfProducts, out);
-    }
+//    @Test
+//    public void parseInputWithException() throws NumberFormatException {
+//        assertThrows(NumberFormatException.class, () -> ip.parseInputArguments(argsWithException));
+//    }
 }

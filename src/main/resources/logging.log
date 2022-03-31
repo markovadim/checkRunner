@@ -916,3 +916,609 @@
 2022-03-29 15:14:32 INFO  InputDataParser:44 - The amount of products 0 was added
 2022-03-29 15:14:32 INFO  InputDataParser:41 - The product id 8 was added
 2022-03-29 15:14:32 INFO  InputDataParser:44 - The amount of products 8 was added
+2022-03-30 01:37:19 INFO  CashierCreator:22 - Cashier with name 000 not found
+2022-03-30 01:38:45 INFO  CashierCreator:22 - Cashier with name 000 not found
+2022-03-30 01:40:19 INFO  CashierCreator:22 - Cashier with name Name not found
+2022-03-30 01:41:09 INFO  CashierCreator:22 - Cashier with name Name not found
+2022-03-30 01:41:29 INFO  CashierCreator:22 - Cashier with name Name not found
+2022-03-30 01:45:48 INFO  CashierCreator:22 - Cashier with name Name not found
+2022-03-30 01:47:48 INFO  CashierCreator:22 - Cashier with name Name not found
+2022-03-30 01:48:19 INFO  CashierCreator:22 - Cashier with name No name not found
+2022-03-30 01:48:27 INFO  CashierCreator:22 - Cashier with name No name not found
+2022-03-30 01:49:07 INFO  CashierCreator:22 - Cashier with name Olega not found
+2022-03-30 01:49:27 INFO  CashierCreator:22 - Cashier with name Valentin not found
+2022-03-31 01:00:11 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-31 01:00:11 INFO  ShopBasketCreator:27 - Product <Broad> was put in the basket
+2022-03-31 01:00:11 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-03-31 01:00:11 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 01:00:11 INFO  PaymentHandler:23 - The payment.
+2022-03-31 01:00:11 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 01:00:11 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 01:00:11 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 01:00:11 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 01:02:05 INFO  CashierCreator:22 - Cashier with name Valentin not found
+2022-03-31 01:06:05 INFO  CashierCreator:22 - Cashier with name Valentin not found
+2022-03-31 01:06:36 INFO  CashierCreator:22 - Cashier with name Valentin not found
+2022-03-31 02:05:34 INFO  CashierCreator:22 - Cashier with name Valentin not found
+2022-03-31 18:18:31 INFO  CashierCreator:22 - Cashier with name Valentin not found
+2022-03-31 18:36:53 INFO  CashierCreator:22 - Cashier with name Valentin not found
+2022-03-31 18:42:57 INFO  CashierCreator:22 - Cashier with name Valentin not found
+2022-03-31 18:49:32 INFO  CashierCreator:22 - Cashier with name Wrong Name not found
+2022-03-31 20:14:13 INFO  CashierCreator:22 - Cashier with name Wrong Name not found
+2022-03-31 20:27:12 INFO  CashierCreator:22 - Cashier with name Wrong Name not found
+2022-03-31 20:28:30 INFO  CashierCreator:22 - Cashier with name Wrong Name not found
+2022-03-31 20:29:32 INFO  CashierCreator:22 - Cashier with name Wrong Name not found
+2022-03-31 20:31:03 INFO  CashierCreator:22 - Cashier with name Unknown Name not found
+2022-03-31 20:31:29 INFO  CashierCreator:22 - Cashier with name Unknown Name not found
+2022-03-31 20:32:25 INFO  CashierCreator:22 - Cashier with name Valentin not found
+2022-03-31 20:32:25 INFO  CashierCreator:22 - Cashier with name Unknown Name not found
+2022-03-31 23:10:38 INFO  ReceiptRunner:21 - Parse input line
+2022-03-31 23:10:38 ERROR InputDataParser:48 - Incorrect input. For input string: "1ws2"
+2022-03-31 23:10:38 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:10:38 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:10:38 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:10:38 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:10:38 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:10:38 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:10:57 INFO  ReceiptRunner:21 - Parse input line
+2022-03-31 23:10:57 ERROR InputDataParser:48 - Incorrect input. For input string: "1ws2"
+2022-03-31 23:10:57 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:10:57 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:10:57 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:10:57 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:10:57 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:10:57 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:11:20 INFO  ReceiptRunner:21 - Parse input line
+2022-03-31 23:11:20 ERROR InputDataParser:48 - Incorrect input. For input string: "1ws2"
+2022-03-31 23:11:20 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:11:20 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:11:20 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:11:20 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:11:20 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:11:21 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:11:57 INFO  ReceiptRunner:21 - Parse input line
+2022-03-31 23:11:57 ERROR InputDataParser:48 - Incorrect input. For input string: "1ws2"
+2022-03-31 23:11:57 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:11:57 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:11:57 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:11:57 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:11:57 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:11:57 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:12:47 INFO  ReceiptRunner:21 - Parse input line
+2022-03-31 23:12:47 ERROR InputDataParser:49 - Incorrect input. For input string: "1ws2"
+2022-03-31 23:12:47 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:12:47 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:12:47 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:12:47 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:12:47 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:12:47 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:16:35 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:16:35 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:16:35 INFO  InputDataParser:33 - The number 3 was found
+2022-03-31 23:16:35 INFO  InputDataParser:33 - The number 2 was found
+2022-03-31 23:16:35 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:16:35 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:16:35 INFO  InputDataParser:33 - The number 5 was found
+2022-03-31 23:16:35 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:16:35 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-31 23:16:35 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:16:35 INFO  InputDataParser:41 - The product id 3 was added
+2022-03-31 23:16:35 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-31 23:16:35 INFO  InputDataParser:41 - The product id 4 was added
+2022-03-31 23:16:35 INFO  InputDataParser:44 - The amount of products 4 was added
+2022-03-31 23:16:35 INFO  InputDataParser:41 - The product id 5 was added
+2022-03-31 23:16:35 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:16:35 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-31 23:16:35 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-03-31 23:16:35 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-03-31 23:16:35 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-03-31 23:16:35 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:16:35 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:16:35 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:16:35 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:16:35 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:16:35 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 3 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 2 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 5 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:25:17 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-31 23:25:17 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:25:17 INFO  InputDataParser:41 - The product id 3 was added
+2022-03-31 23:25:17 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-31 23:25:17 INFO  InputDataParser:41 - The product id 4 was added
+2022-03-31 23:25:17 INFO  InputDataParser:44 - The amount of products 4 was added
+2022-03-31 23:25:17 INFO  InputDataParser:41 - The product id 5 was added
+2022-03-31 23:25:17 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:25:17 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-31 23:25:17 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-03-31 23:25:17 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-03-31 23:25:17 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-03-31 23:25:17 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:25:17 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:25:17 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:25:17 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:25:17 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:25:17 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 3 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 2 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 5 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:25:17 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-31 23:25:17 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:25:17 INFO  InputDataParser:41 - The product id 3 was added
+2022-03-31 23:25:17 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-31 23:25:17 INFO  InputDataParser:41 - The product id 4 was added
+2022-03-31 23:25:17 INFO  InputDataParser:44 - The amount of products 4 was added
+2022-03-31 23:25:17 INFO  InputDataParser:41 - The product id 5 was added
+2022-03-31 23:25:17 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:25:17 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-31 23:25:17 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-03-31 23:25:17 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-03-31 23:25:17 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-03-31 23:25:17 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:25:17 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:25:17 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:25:17 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:25:17 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:25:17 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:28:36 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:28:36 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:28:36 INFO  InputDataParser:33 - The number 3 was found
+2022-03-31 23:28:36 INFO  InputDataParser:33 - The number 2 was found
+2022-03-31 23:28:36 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:28:36 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:28:36 INFO  InputDataParser:33 - The number 5 was found
+2022-03-31 23:28:36 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:28:36 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-31 23:28:36 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:28:36 INFO  InputDataParser:41 - The product id 3 was added
+2022-03-31 23:28:36 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-31 23:28:36 INFO  InputDataParser:41 - The product id 4 was added
+2022-03-31 23:28:36 INFO  InputDataParser:44 - The amount of products 4 was added
+2022-03-31 23:28:36 INFO  InputDataParser:41 - The product id 5 was added
+2022-03-31 23:28:36 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:28:36 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-31 23:28:36 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-03-31 23:28:36 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-03-31 23:28:36 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-03-31 23:28:36 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:28:36 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:28:36 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:28:36 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:28:36 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:28:36 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:30:32 ERROR InputDataParser:48 - Incorrect input. For input string: "as51"
+2022-03-31 23:30:32 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:30:32 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:30:32 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:30:32 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:30:32 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:30:32 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:31:04 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:31:04 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:31:04 INFO  InputDataParser:33 - The number 3 was found
+2022-03-31 23:31:04 INFO  InputDataParser:33 - The number 2 was found
+2022-03-31 23:31:04 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:31:04 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:31:04 INFO  InputDataParser:33 - The number 5 was found
+2022-03-31 23:31:04 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:31:04 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-31 23:31:04 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:31:04 INFO  InputDataParser:41 - The product id 3 was added
+2022-03-31 23:31:04 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-31 23:31:04 INFO  InputDataParser:41 - The product id 4 was added
+2022-03-31 23:31:04 INFO  InputDataParser:44 - The amount of products 4 was added
+2022-03-31 23:31:04 INFO  InputDataParser:41 - The product id 5 was added
+2022-03-31 23:31:04 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:31:04 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-31 23:31:04 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-03-31 23:31:04 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-03-31 23:31:04 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-03-31 23:31:04 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:31:04 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:31:04 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:31:04 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:31:04 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:31:04 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:31:04 ERROR InputDataParser:48 - Incorrect input. For input string: "as51"
+2022-03-31 23:31:04 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:31:04 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:31:04 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:31:04 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:31:04 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:31:04 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:31:58 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:31:58 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:31:58 INFO  InputDataParser:33 - The number 3 was found
+2022-03-31 23:31:58 INFO  InputDataParser:33 - The number 2 was found
+2022-03-31 23:31:58 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:31:58 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:31:58 INFO  InputDataParser:33 - The number 5 was found
+2022-03-31 23:31:58 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:31:58 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-31 23:31:58 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:31:58 INFO  InputDataParser:41 - The product id 3 was added
+2022-03-31 23:31:58 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-31 23:31:58 INFO  InputDataParser:41 - The product id 4 was added
+2022-03-31 23:31:58 INFO  InputDataParser:44 - The amount of products 4 was added
+2022-03-31 23:31:58 INFO  InputDataParser:41 - The product id 5 was added
+2022-03-31 23:31:58 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:31:58 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-31 23:31:58 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-03-31 23:31:58 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-03-31 23:31:58 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-03-31 23:31:58 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:31:58 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:31:58 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:31:58 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:31:58 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:31:58 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:31:58 ERROR InputDataParser:48 - Incorrect input. For input string: "as51"
+2022-03-31 23:31:58 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:31:58 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:31:58 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:31:58 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:31:58 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:31:58 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:33:33 ERROR InputDataParser:48 - Incorrect input. For input string: "as51"
+2022-03-31 23:33:33 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:33:33 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:33:33 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:33:33 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:33:33 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:33:33 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:34:06 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:34:06 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:34:06 INFO  InputDataParser:33 - The number 3 was found
+2022-03-31 23:34:06 INFO  InputDataParser:33 - The number 2 was found
+2022-03-31 23:34:06 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:34:06 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:34:06 INFO  InputDataParser:33 - The number 5 was found
+2022-03-31 23:34:06 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:34:06 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-31 23:34:06 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:34:06 INFO  InputDataParser:41 - The product id 3 was added
+2022-03-31 23:34:06 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-31 23:34:06 INFO  InputDataParser:41 - The product id 4 was added
+2022-03-31 23:34:06 INFO  InputDataParser:44 - The amount of products 4 was added
+2022-03-31 23:34:06 INFO  InputDataParser:41 - The product id 5 was added
+2022-03-31 23:34:06 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:34:06 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-31 23:34:06 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-03-31 23:34:06 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-03-31 23:34:06 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-03-31 23:34:06 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:34:06 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:34:06 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:34:06 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:34:06 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:34:06 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:34:39 ERROR InputDataParser:48 - Incorrect input. For input string: "as51"
+2022-03-31 23:34:39 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:34:39 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:34:39 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:34:39 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:34:39 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:34:39 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:35:36 ERROR InputDataParser:48 - Incorrect input. For input string: "as51"
+2022-03-31 23:35:36 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:35:36 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:35:36 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:35:36 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:35:36 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:35:36 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:37:27 ERROR InputDataParser:48 - Incorrect input. For input string: "as51"
+2022-03-31 23:37:27 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:37:27 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:37:27 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:37:27 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:37:27 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:37:27 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:42:23 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:42:23 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:42:23 INFO  InputDataParser:33 - The number 3 was found
+2022-03-31 23:42:23 INFO  InputDataParser:33 - The number 2 was found
+2022-03-31 23:42:23 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:42:23 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:42:23 INFO  InputDataParser:33 - The number 5 was found
+2022-03-31 23:42:23 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:42:23 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-31 23:42:23 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:42:23 INFO  InputDataParser:41 - The product id 3 was added
+2022-03-31 23:42:23 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-31 23:42:23 INFO  InputDataParser:41 - The product id 4 was added
+2022-03-31 23:42:23 INFO  InputDataParser:44 - The amount of products 4 was added
+2022-03-31 23:42:23 INFO  InputDataParser:41 - The product id 5 was added
+2022-03-31 23:42:23 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:42:23 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-31 23:42:23 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-03-31 23:42:23 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-03-31 23:42:23 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-03-31 23:42:23 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:42:23 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:42:23 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:42:23 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:42:23 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:42:23 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:42:42 INFO  CashierCreator:22 - Cashier with name Unknown Name not found
+2022-03-31 23:42:56 ERROR InputDataParser:48 - Incorrect input. For input string: "as51"
+2022-03-31 23:42:56 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:42:56 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:42:56 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:42:56 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:42:56 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:42:56 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:45:39 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:45:39 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:45:39 INFO  InputDataParser:33 - The number 3 was found
+2022-03-31 23:45:39 INFO  InputDataParser:33 - The number 2 was found
+2022-03-31 23:45:39 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:45:39 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:45:39 INFO  InputDataParser:33 - The number 5 was found
+2022-03-31 23:45:39 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:45:39 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-31 23:45:39 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:45:39 INFO  InputDataParser:41 - The product id 3 was added
+2022-03-31 23:45:39 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-31 23:45:39 INFO  InputDataParser:41 - The product id 4 was added
+2022-03-31 23:45:39 INFO  InputDataParser:44 - The amount of products 4 was added
+2022-03-31 23:45:39 INFO  InputDataParser:41 - The product id 5 was added
+2022-03-31 23:45:39 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:45:39 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-31 23:45:39 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-03-31 23:45:39 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-03-31 23:45:39 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-03-31 23:45:39 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:45:39 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:45:39 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:45:39 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:45:39 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:45:39 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:46:01 ERROR InputDataParser:48 - Incorrect input. For input string: "1as51"
+2022-03-31 23:46:01 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:46:01 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:46:01 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:46:01 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:46:01 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:46:01 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:47:57 ERROR InputDataParser:48 - Incorrect input. For input string: "1as51"
+2022-03-31 23:47:57 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:47:57 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:47:57 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:47:57 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:47:57 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:47:57 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:48:54 ERROR InputDataParser:48 - Incorrect input. For input string: "1as51"
+2022-03-31 23:48:54 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:48:54 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:48:54 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:48:54 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:48:54 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:48:54 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:49:19 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:49:19 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:49:19 INFO  InputDataParser:33 - The number 3 was found
+2022-03-31 23:49:19 INFO  InputDataParser:33 - The number 2 was found
+2022-03-31 23:49:19 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:49:19 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:49:19 INFO  InputDataParser:33 - The number 5 was found
+2022-03-31 23:49:19 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:49:19 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-31 23:49:19 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:49:19 INFO  InputDataParser:41 - The product id 3 was added
+2022-03-31 23:49:19 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-31 23:49:19 INFO  InputDataParser:41 - The product id 4 was added
+2022-03-31 23:49:19 INFO  InputDataParser:44 - The amount of products 4 was added
+2022-03-31 23:49:19 INFO  InputDataParser:41 - The product id 5 was added
+2022-03-31 23:49:19 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:49:19 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-31 23:49:19 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-03-31 23:49:19 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-03-31 23:49:19 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-03-31 23:49:19 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:49:19 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:49:19 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:49:19 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:49:19 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:49:20 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:54:00 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:54:00 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:54:00 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:54:00 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:54:00 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:54:11 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:54:11 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:54:11 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:54:11 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:54:11 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:58:46 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:58:46 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:58:46 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:58:46 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:58:46 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:58:58 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:58:58 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:58:58 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:58:58 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:58:58 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:58:58 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:58:58 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:58:58 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:58:58 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:58:58 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:59:55 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:59:55 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:59:55 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:59:55 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:59:55 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:02:35 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:02:35 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:02:35 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:02:35 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:02:35 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:02:59 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:02:59 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:02:59 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:02:59 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:02:59 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:02:59 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:02:59 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:02:59 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:02:59 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:02:59 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:03:27 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:03:27 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:03:27 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:03:27 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:03:27 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:03:27 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:03:27 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:03:27 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:03:27 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:03:27 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:07:51 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:07:51 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:07:51 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:07:51 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:07:51 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:07:51 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:07:51 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:07:51 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:07:51 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:07:51 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:08:17 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:08:17 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:08:17 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:08:17 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:08:17 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:08:55 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:08:55 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:08:55 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:08:55 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:08:55 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:09:12 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:09:12 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:09:12 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:09:12 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:09:12 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:11:37 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:11:37 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:11:37 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:11:37 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:11:37 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:11:37 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:11:37 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:11:37 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:11:37 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:11:37 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:12:12 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:12:12 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:12:12 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:12:12 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:12:12 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:12:12 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:12:12 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:12:12 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:12:12 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:12:12 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:21:39 INFO  ReceiptRunner:21 - Parse input line
+2022-04-01 00:21:39 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-04-01 00:21:39 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:21:39 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:21:39 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:21:39 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:21:39 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:38:51 INFO  CashierCreator:22 - Cashier with name Valentin not found
+2022-04-01 00:38:52 INFO  InputDataParser:33 - The number 1 was found
+2022-04-01 00:38:52 INFO  InputDataParser:33 - The number 1 was found
+2022-04-01 00:38:52 INFO  InputDataParser:33 - The number 3 was found
+2022-04-01 00:38:52 INFO  InputDataParser:33 - The number 2 was found
+2022-04-01 00:38:52 INFO  InputDataParser:33 - The number 4 was found
+2022-04-01 00:38:52 INFO  InputDataParser:33 - The number 4 was found
+2022-04-01 00:38:52 INFO  InputDataParser:33 - The number 5 was found
+2022-04-01 00:38:52 INFO  InputDataParser:33 - The number 1 was found
+2022-04-01 00:38:52 INFO  InputDataParser:41 - The product id 1 was added
+2022-04-01 00:38:52 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-04-01 00:38:52 INFO  InputDataParser:41 - The product id 3 was added
+2022-04-01 00:38:52 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-04-01 00:38:52 INFO  InputDataParser:41 - The product id 4 was added
+2022-04-01 00:38:52 INFO  InputDataParser:44 - The amount of products 4 was added
+2022-04-01 00:38:52 INFO  InputDataParser:41 - The product id 5 was added
+2022-04-01 00:38:52 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-04-01 00:38:52 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-04-01 00:38:52 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-04-01 00:38:52 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-04-01 00:38:52 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-04-01 00:38:52 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-04-01 00:38:52 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:38:52 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:38:52 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:38:52 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:38:52 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:38:52 INFO  CashierCreator:22 - Cashier with name Unknown Name not found
+2022-04-01 00:38:52 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:38:52 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:38:52 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:38:52 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:38:52 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:38:52 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:38:52 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:38:52 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:38:52 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:38:52 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:43:02 INFO  ReceiptRunner:21 - Parse input line
+2022-04-01 00:43:02 ERROR InputDataParser:48 - Incorrect input. For input string: "1ok1"
+2022-04-01 00:43:02 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-04-01 00:43:02 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:43:02 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:43:02 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:43:02 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:43:02 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 01:12:47 INFO  CashierCreator:22 - Cashier with name Valentin not found
+2022-04-01 01:12:47 INFO  InputDataParser:33 - The number 1 was found
+2022-04-01 01:12:47 INFO  InputDataParser:33 - The number 1 was found
+2022-04-01 01:12:47 INFO  InputDataParser:33 - The number 3 was found
+2022-04-01 01:12:47 INFO  InputDataParser:33 - The number 2 was found
+2022-04-01 01:12:47 INFO  InputDataParser:33 - The number 4 was found
+2022-04-01 01:12:47 INFO  InputDataParser:33 - The number 4 was found
+2022-04-01 01:12:47 INFO  InputDataParser:33 - The number 5 was found
+2022-04-01 01:12:47 INFO  InputDataParser:33 - The number 1 was found
+2022-04-01 01:12:47 INFO  InputDataParser:41 - The product id 1 was added
+2022-04-01 01:12:47 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-04-01 01:12:47 INFO  InputDataParser:41 - The product id 3 was added
+2022-04-01 01:12:47 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-04-01 01:12:47 INFO  InputDataParser:41 - The product id 4 was added
+2022-04-01 01:12:47 INFO  InputDataParser:44 - The amount of products 4 was added
+2022-04-01 01:12:47 INFO  InputDataParser:41 - The product id 5 was added
+2022-04-01 01:12:47 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-04-01 01:12:47 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-04-01 01:12:47 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-04-01 01:12:47 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-04-01 01:12:47 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-04-01 01:12:47 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-04-01 01:12:47 INFO  PaymentHandler:23 - The payment.
+2022-04-01 01:12:47 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 01:12:47 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 01:12:47 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 01:12:48 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 01:12:48 INFO  CashierCreator:22 - Cashier with name Unknown Name not found
+2022-04-01 01:12:48 INFO  PaymentHandler:23 - The payment.
+2022-04-01 01:12:48 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 01:12:48 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 01:12:48 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 01:12:48 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 01:12:48 INFO  PaymentHandler:23 - The payment.
+2022-04-01 01:12:48 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 01:12:48 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 01:12:48 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 01:12:48 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 01:16:04 INFO  CashierCreator:22 - Cashier with name Unknown Name not found
