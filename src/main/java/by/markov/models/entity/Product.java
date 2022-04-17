@@ -41,4 +41,16 @@ public class Product {
                 ", isDiscount=" + isDiscount +
                 '}';
     }
+
+    public double getPrice() {
+        return price;
+    }
+
+    public boolean isDiscount() {
+        return isDiscount;
+    }
+
+    public String getProduct() {
+        return product;
+    }
 }

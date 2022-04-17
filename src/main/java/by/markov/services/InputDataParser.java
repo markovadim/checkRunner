@@ -2,19 +2,19 @@ package by.markov.services;
 
 import by.markov.models.Card;
 import by.markov.services.shopbaskets.ShopBasketCreator;
+import lombok.Data;
 import org.apache.log4j.Logger;
 
 import java.util.ArrayList;
 
 public class InputDataParser {
-    private Card card;
-    private final String EXPECTED_CARD_NAME = "card";
+    Card card;
+    static final String EXPECTED_CARD_NAME = "card";
     static final Logger logger = Logger.getLogger(InputDataParser.class);
-    public ArrayList<Integer>idsOfProducts;
 
-    public String[] parseInputArguments(String[] itemIds) throws Exception {
+    public void parseInputArguments(String[] itemIds) throws Exception {
         ArrayList<Integer> parsedItemIds = new ArrayList<>();               // all numbers
-        idsOfProducts = new ArrayList<>();      // Ids
+        ArrayList<Integer> idsOfProducts = new ArrayList<>();      // Ids
         ArrayList<Integer> amountOfProducts = new ArrayList<>();     // amount
 
         // loop for input item Ids
@@ -50,7 +50,5 @@ public class InputDataParser {
 
         ShopBasketCreator shopBasketCreator = new ShopBasketCreator();
         shopBasketCreator.createShopBasket(idsOfProducts, amountOfProducts, card);
-
-        return itemIds;
     }
 }

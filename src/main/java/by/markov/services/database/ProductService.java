@@ -3,11 +3,13 @@ package by.markov.services.database;
 import by.markov.dao.ProductDAO;
 import by.markov.models.entity.Product;
 
+import java.util.ArrayList;
+
 public class ProductService {
 
-    ProductDAO productDAO = new ProductDAO();
+    private final ProductDAO productDAO = new ProductDAO();
 
-    public Product getProduct(int id) {
-        return productDAO.getProduct(id);
+    public ArrayList<Product> getProduct(ArrayList<Integer> ids) {
+        return productDAO.getProduct(ids);
     }
 }

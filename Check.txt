@@ -3,13 +3,18 @@
     12, MILKYWAY Galaxy/Earth
         Tel :123-456-7890
 
-CASHIER#133              DATE:01/04/22
-                                 01:12
+CASHIER#133              DATE:18/04/22
+                                 02:27
 ______________________________________
 QTY    DESCRIPTION     PRICE     TOTAL
 
-2         Water         10,0      20,0
+6         Water         10,0      54,0
+2         Broad         13,0      26,0
+6         Butter         11,0      66,0
+2         Sugar          9,5      19,0
+5          Meat         17,3      86,5
+1         Banana          6,6       6,6
 ======================================
-TAXABLE TOT.: $                   20,0
-VAT10%: $                          0,0
-TOTAL: $                          20,0
+TAXABLE TOT.: $                  264,1
+VAT10%: $                          6,0
+TOTAL: $                         258,1

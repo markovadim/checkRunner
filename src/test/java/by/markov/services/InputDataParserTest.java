@@ -28,11 +28,11 @@ public class InputDataParserTest {
         ids.add(5);
     }
 
-    @Test
-    public void parseInput() throws Exception {
-        ip.parseInputArguments(args);
-        assertEquals(ip.idsOfProducts, ids);
-    }
+//    @Test
+//    public void parseInput() throws Exception {
+//        ip.parseInputArguments(args);
+//        assertEquals(ip.idsOfProducts, ids);
+//    }
 
 //    @Test
 //    public void parseInputWithException() throws NumberFormatException {
