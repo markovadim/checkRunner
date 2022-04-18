@@ -476,3 +476,1974 @@
 2022-02-04 19:38:32 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
 2022-02-04 19:38:32 INFO  PaymentHandler:42 - Created the receipt
 2022-02-04 19:38:32 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-29 14:35:26 INFO  InputDataParser:32 - The number 1 was found
+2022-03-29 14:35:26 INFO  InputDataParser:32 - The number 1 was found
+2022-03-29 14:35:26 INFO  InputDataParser:32 - The number 2 was found
+2022-03-29 14:35:26 INFO  InputDataParser:32 - The number 2 was found
+2022-03-29 14:35:26 INFO  InputDataParser:32 - The number 1 was found
+2022-03-29 14:35:26 INFO  InputDataParser:32 - The number 0 was found
+2022-03-29 14:35:26 INFO  InputDataParser:32 - The number 8 was found
+2022-03-29 14:35:26 INFO  InputDataParser:32 - The number 8 was found
+2022-03-29 14:35:26 INFO  InputDataParser:40 - The product id 1 was added
+2022-03-29 14:35:26 INFO  InputDataParser:43 - The amount of products 1 was added
+2022-03-29 14:35:26 INFO  InputDataParser:40 - The product id 2 was added
+2022-03-29 14:35:26 INFO  InputDataParser:43 - The amount of products 2 was added
+2022-03-29 14:35:26 INFO  InputDataParser:40 - The product id 1 was added
+2022-03-29 14:35:26 INFO  InputDataParser:43 - The amount of products 0 was added
+2022-03-29 14:35:26 INFO  InputDataParser:40 - The product id 8 was added
+2022-03-29 14:35:26 INFO  InputDataParser:43 - The amount of products 8 was added
+2022-03-29 14:35:26 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 14:35:26 INFO  ShopBasketCreator:27 - Product <Broad> was put in the basket
+2022-03-29 14:35:26 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 14:35:26 INFO  ShopBasketCreator:27 - Product <Salt> was put in the basket
+2022-03-29 14:35:26 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-29 14:35:26 INFO  PaymentHandler:23 - The payment.
+2022-03-29 14:35:26 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-29 14:35:26 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-29 14:35:26 INFO  PaymentHandler:42 - Created the receipt
+2022-03-29 14:35:26 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-29 14:42:18 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 14:42:18 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 14:42:18 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 14:42:18 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 14:42:18 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 14:42:18 INFO  InputDataParser:33 - The number 0 was found
+2022-03-29 14:42:18 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 14:42:18 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 14:42:18 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 14:42:18 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-29 14:42:18 INFO  InputDataParser:41 - The product id 2 was added
+2022-03-29 14:42:18 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-29 14:42:18 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 14:42:18 INFO  InputDataParser:44 - The amount of products 0 was added
+2022-03-29 14:42:18 INFO  InputDataParser:41 - The product id 8 was added
+2022-03-29 14:42:18 INFO  InputDataParser:44 - The amount of products 8 was added
+2022-03-29 14:42:18 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 14:42:18 INFO  ShopBasketCreator:27 - Product <Broad> was put in the basket
+2022-03-29 14:42:18 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 14:42:18 INFO  ShopBasketCreator:27 - Product <Salt> was put in the basket
+2022-03-29 14:42:18 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-29 14:42:18 INFO  PaymentHandler:23 - The payment.
+2022-03-29 14:42:18 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-29 14:42:18 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-29 14:42:18 INFO  PaymentHandler:42 - Created the receipt
+2022-03-29 14:42:18 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-29 14:43:14 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 14:43:14 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 14:43:14 INFO  InputDataParser:33 - The number 7 was found
+2022-03-29 14:43:14 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 14:43:14 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 14:43:14 INFO  InputDataParser:33 - The number 0 was found
+2022-03-29 14:43:14 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 14:43:14 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 14:43:14 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 14:43:14 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-29 14:43:14 INFO  InputDataParser:41 - The product id 7 was added
+2022-03-29 14:43:14 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-29 14:43:14 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 14:43:14 INFO  InputDataParser:44 - The amount of products 0 was added
+2022-03-29 14:43:14 INFO  InputDataParser:41 - The product id 8 was added
+2022-03-29 14:43:14 INFO  InputDataParser:44 - The amount of products 8 was added
+2022-03-29 14:43:14 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 14:43:14 INFO  ShopBasketCreator:27 - Product <Milk> was put in the basket
+2022-03-29 14:43:14 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 14:43:14 INFO  ShopBasketCreator:27 - Product <Salt> was put in the basket
+2022-03-29 14:43:14 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-29 14:43:14 INFO  PaymentHandler:23 - The payment.
+2022-03-29 14:43:14 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-29 14:43:14 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-29 14:43:14 INFO  PaymentHandler:42 - Created the receipt
+2022-03-29 14:43:14 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-29 14:46:40 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 14:46:40 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 14:46:40 INFO  InputDataParser:33 - The number 7 was found
+2022-03-29 14:46:40 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 14:46:40 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 14:46:40 INFO  InputDataParser:33 - The number 0 was found
+2022-03-29 14:46:40 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 14:46:40 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 14:46:40 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 14:46:40 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-29 14:46:40 INFO  InputDataParser:41 - The product id 7 was added
+2022-03-29 14:46:40 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-29 14:46:40 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 14:46:40 INFO  InputDataParser:44 - The amount of products 0 was added
+2022-03-29 14:46:40 INFO  InputDataParser:41 - The product id 8 was added
+2022-03-29 14:46:40 INFO  InputDataParser:44 - The amount of products 8 was added
+2022-03-29 14:46:40 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 14:46:40 INFO  ShopBasketCreator:27 - Product <Milk> was put in the basket
+2022-03-29 14:46:40 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 14:46:40 INFO  ShopBasketCreator:27 - Product <Salt> was put in the basket
+2022-03-29 14:46:40 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-29 14:46:40 INFO  PaymentHandler:23 - The payment.
+2022-03-29 14:46:40 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-29 14:46:40 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-29 14:46:40 INFO  PaymentHandler:42 - Created the receipt
+2022-03-29 14:46:40 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-29 14:47:12 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 14:47:12 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 14:47:12 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 14:47:12 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 14:47:12 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 14:47:12 INFO  InputDataParser:33 - The number 0 was found
+2022-03-29 14:47:12 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 14:47:12 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 14:47:12 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 14:47:12 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-29 14:47:12 INFO  InputDataParser:41 - The product id 2 was added
+2022-03-29 14:47:12 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-29 14:47:12 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 14:47:12 INFO  InputDataParser:44 - The amount of products 0 was added
+2022-03-29 14:47:12 INFO  InputDataParser:41 - The product id 8 was added
+2022-03-29 14:47:12 INFO  InputDataParser:44 - The amount of products 8 was added
+2022-03-29 14:47:12 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 14:47:12 INFO  ShopBasketCreator:27 - Product <Broad> was put in the basket
+2022-03-29 14:47:12 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 14:47:12 INFO  ShopBasketCreator:27 - Product <Salt> was put in the basket
+2022-03-29 14:47:12 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-29 14:47:12 INFO  PaymentHandler:23 - The payment.
+2022-03-29 14:47:12 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-29 14:47:12 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-29 14:47:12 INFO  PaymentHandler:42 - Created the receipt
+2022-03-29 14:47:12 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-29 14:47:41 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 14:47:41 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 14:47:41 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 14:47:41 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 14:47:41 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 14:47:41 INFO  InputDataParser:33 - The number 0 was found
+2022-03-29 14:47:41 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 14:47:41 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 14:47:41 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 14:47:41 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-29 14:47:41 INFO  InputDataParser:41 - The product id 2 was added
+2022-03-29 14:47:41 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-29 14:47:41 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 14:47:41 INFO  InputDataParser:44 - The amount of products 0 was added
+2022-03-29 14:47:41 INFO  InputDataParser:41 - The product id 8 was added
+2022-03-29 14:47:41 INFO  InputDataParser:44 - The amount of products 8 was added
+2022-03-29 14:47:41 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 14:47:41 INFO  ShopBasketCreator:27 - Product <Broad> was put in the basket
+2022-03-29 14:47:41 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 14:47:41 INFO  ShopBasketCreator:27 - Product <Salt> was put in the basket
+2022-03-29 14:47:41 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-29 14:47:41 INFO  PaymentHandler:23 - The payment.
+2022-03-29 14:47:41 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-29 14:47:41 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-29 14:47:41 INFO  PaymentHandler:42 - Created the receipt
+2022-03-29 14:47:41 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-29 14:49:51 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 14:49:51 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 14:49:51 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 14:49:51 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 14:49:51 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 14:49:51 INFO  InputDataParser:33 - The number 0 was found
+2022-03-29 14:49:51 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 14:49:51 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 14:49:51 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 14:49:51 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-29 14:49:51 INFO  InputDataParser:41 - The product id 2 was added
+2022-03-29 14:49:51 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-29 14:49:51 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 14:49:51 INFO  InputDataParser:44 - The amount of products 0 was added
+2022-03-29 14:49:51 INFO  InputDataParser:41 - The product id 8 was added
+2022-03-29 14:49:51 INFO  InputDataParser:44 - The amount of products 8 was added
+2022-03-29 14:49:51 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 14:49:51 INFO  ShopBasketCreator:27 - Product <Broad> was put in the basket
+2022-03-29 14:49:51 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 14:49:51 INFO  ShopBasketCreator:27 - Product <Salt> was put in the basket
+2022-03-29 14:49:51 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-29 14:49:51 INFO  PaymentHandler:23 - The payment.
+2022-03-29 14:49:51 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-29 14:49:51 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-29 14:49:51 INFO  PaymentHandler:42 - Created the receipt
+2022-03-29 14:49:51 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-29 14:54:09 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 14:54:09 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 14:54:09 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 14:54:09 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 14:54:09 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 14:54:09 INFO  InputDataParser:33 - The number 0 was found
+2022-03-29 14:54:09 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 14:54:09 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 14:54:09 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 14:54:09 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-29 14:54:09 INFO  InputDataParser:41 - The product id 2 was added
+2022-03-29 14:54:09 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-29 14:54:09 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 14:54:09 INFO  InputDataParser:44 - The amount of products 0 was added
+2022-03-29 14:54:09 INFO  InputDataParser:41 - The product id 8 was added
+2022-03-29 14:54:09 INFO  InputDataParser:44 - The amount of products 8 was added
+2022-03-29 14:54:09 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 14:54:09 INFO  ShopBasketCreator:27 - Product <Broad> was put in the basket
+2022-03-29 14:54:09 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 14:54:09 INFO  ShopBasketCreator:27 - Product <Salt> was put in the basket
+2022-03-29 14:54:09 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-29 14:54:09 INFO  PaymentHandler:23 - The payment.
+2022-03-29 14:54:09 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-29 14:54:09 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-29 14:54:09 INFO  PaymentHandler:42 - Created the receipt
+2022-03-29 14:54:09 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-29 14:56:34 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 14:56:34 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 14:56:34 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 14:56:34 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 14:56:34 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 14:56:34 INFO  InputDataParser:33 - The number 0 was found
+2022-03-29 14:56:34 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 14:56:34 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 14:56:34 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 14:56:34 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-29 14:56:34 INFO  InputDataParser:41 - The product id 2 was added
+2022-03-29 14:56:34 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-29 14:56:34 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 14:56:34 INFO  InputDataParser:44 - The amount of products 0 was added
+2022-03-29 14:56:34 INFO  InputDataParser:41 - The product id 8 was added
+2022-03-29 14:56:34 INFO  InputDataParser:44 - The amount of products 8 was added
+2022-03-29 14:56:34 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 14:56:34 INFO  ShopBasketCreator:27 - Product <Broad> was put in the basket
+2022-03-29 14:56:34 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 14:56:34 INFO  ShopBasketCreator:27 - Product <Salt> was put in the basket
+2022-03-29 14:56:34 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-29 14:56:34 INFO  PaymentHandler:23 - The payment.
+2022-03-29 14:56:34 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-29 14:56:34 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-29 14:56:34 INFO  PaymentHandler:42 - Created the receipt
+2022-03-29 14:56:34 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-29 15:00:58 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 15:00:58 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 15:00:58 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 15:00:58 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 15:00:58 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 15:00:58 INFO  InputDataParser:33 - The number 0 was found
+2022-03-29 15:00:58 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 15:00:58 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 15:00:58 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 15:00:58 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-29 15:00:58 INFO  InputDataParser:41 - The product id 2 was added
+2022-03-29 15:00:58 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-29 15:00:58 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 15:00:58 INFO  InputDataParser:44 - The amount of products 0 was added
+2022-03-29 15:00:58 INFO  InputDataParser:41 - The product id 8 was added
+2022-03-29 15:00:58 INFO  InputDataParser:44 - The amount of products 8 was added
+2022-03-29 15:00:58 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 15:00:58 INFO  ShopBasketCreator:27 - Product <Broad> was put in the basket
+2022-03-29 15:00:58 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 15:00:58 INFO  ShopBasketCreator:27 - Product <Salt> was put in the basket
+2022-03-29 15:00:58 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-29 15:00:58 INFO  PaymentHandler:23 - The payment.
+2022-03-29 15:00:58 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-29 15:00:58 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-29 15:00:58 INFO  PaymentHandler:42 - Created the receipt
+2022-03-29 15:00:58 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-29 15:01:09 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 15:01:09 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 15:01:09 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 15:01:09 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 15:01:09 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 15:01:09 INFO  InputDataParser:33 - The number 0 was found
+2022-03-29 15:01:09 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 15:01:09 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 15:01:09 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 15:01:09 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-29 15:01:09 INFO  InputDataParser:41 - The product id 2 was added
+2022-03-29 15:01:09 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-29 15:01:09 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 15:01:09 INFO  InputDataParser:44 - The amount of products 0 was added
+2022-03-29 15:01:09 INFO  InputDataParser:41 - The product id 8 was added
+2022-03-29 15:01:09 INFO  InputDataParser:44 - The amount of products 8 was added
+2022-03-29 15:01:09 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 15:01:09 INFO  ShopBasketCreator:27 - Product <Broad> was put in the basket
+2022-03-29 15:01:09 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 15:01:09 INFO  ShopBasketCreator:27 - Product <Salt> was put in the basket
+2022-03-29 15:01:09 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-29 15:01:09 INFO  PaymentHandler:23 - The payment.
+2022-03-29 15:01:09 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-29 15:01:09 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-29 15:01:09 INFO  PaymentHandler:42 - Created the receipt
+2022-03-29 15:01:09 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-29 15:01:34 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 15:01:34 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 15:01:34 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 15:01:34 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 15:01:34 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 15:01:34 INFO  InputDataParser:33 - The number 0 was found
+2022-03-29 15:01:34 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 15:01:34 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 15:01:34 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 15:01:34 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-29 15:01:34 INFO  InputDataParser:41 - The product id 2 was added
+2022-03-29 15:01:34 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-29 15:01:34 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 15:01:34 INFO  InputDataParser:44 - The amount of products 0 was added
+2022-03-29 15:01:34 INFO  InputDataParser:41 - The product id 8 was added
+2022-03-29 15:01:34 INFO  InputDataParser:44 - The amount of products 8 was added
+2022-03-29 15:01:34 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 15:01:34 INFO  ShopBasketCreator:27 - Product <Broad> was put in the basket
+2022-03-29 15:01:34 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 15:01:34 INFO  ShopBasketCreator:27 - Product <Salt> was put in the basket
+2022-03-29 15:01:34 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-29 15:01:34 INFO  PaymentHandler:23 - The payment.
+2022-03-29 15:01:34 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-29 15:01:34 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-29 15:01:34 INFO  PaymentHandler:42 - Created the receipt
+2022-03-29 15:01:35 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-29 15:04:57 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 15:04:57 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 15:04:57 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 15:04:57 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 15:04:57 INFO  InputDataParser:33 - The number 34 was found
+2022-03-29 15:04:57 INFO  InputDataParser:33 - The number 0 was found
+2022-03-29 15:04:57 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 15:04:57 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 15:04:57 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 15:04:57 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-29 15:04:57 INFO  InputDataParser:41 - The product id 2 was added
+2022-03-29 15:04:57 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-29 15:04:57 INFO  InputDataParser:41 - The product id 34 was added
+2022-03-29 15:04:57 INFO  InputDataParser:44 - The amount of products 0 was added
+2022-03-29 15:04:57 INFO  InputDataParser:41 - The product id 8 was added
+2022-03-29 15:04:57 INFO  InputDataParser:44 - The amount of products 8 was added
+2022-03-29 15:04:57 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 15:04:57 INFO  ShopBasketCreator:27 - Product <Broad> was put in the basket
+2022-03-29 15:11:25 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 15:11:25 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 15:11:25 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 15:11:25 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 15:11:25 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 15:11:25 INFO  InputDataParser:33 - The number 0 was found
+2022-03-29 15:11:25 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 15:11:25 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 15:11:25 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 15:11:25 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-29 15:11:25 INFO  InputDataParser:41 - The product id 2 was added
+2022-03-29 15:11:25 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-29 15:11:25 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 15:11:25 INFO  InputDataParser:44 - The amount of products 0 was added
+2022-03-29 15:11:25 INFO  InputDataParser:41 - The product id 8 was added
+2022-03-29 15:11:25 INFO  InputDataParser:44 - The amount of products 8 was added
+2022-03-29 15:11:25 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 15:11:25 INFO  ShopBasketCreator:27 - Product <Broad> was put in the basket
+2022-03-29 15:11:25 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 15:11:25 INFO  ShopBasketCreator:27 - Product <Salt> was put in the basket
+2022-03-29 15:11:25 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-29 15:11:25 INFO  PaymentHandler:23 - The payment.
+2022-03-29 15:11:25 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-29 15:11:25 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-29 15:11:25 INFO  PaymentHandler:42 - Created the receipt
+2022-03-29 15:11:25 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-29 15:11:25 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 15:11:25 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 15:11:25 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 15:11:25 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 15:11:25 INFO  InputDataParser:33 - The number 34 was found
+2022-03-29 15:11:25 INFO  InputDataParser:33 - The number 0 was found
+2022-03-29 15:11:25 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 15:11:25 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 15:11:25 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 15:11:25 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-29 15:11:25 INFO  InputDataParser:41 - The product id 2 was added
+2022-03-29 15:11:25 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-29 15:11:25 INFO  InputDataParser:41 - The product id 34 was added
+2022-03-29 15:11:25 INFO  InputDataParser:44 - The amount of products 0 was added
+2022-03-29 15:11:25 INFO  InputDataParser:41 - The product id 8 was added
+2022-03-29 15:11:25 INFO  InputDataParser:44 - The amount of products 8 was added
+2022-03-29 15:11:25 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 15:11:25 INFO  ShopBasketCreator:27 - Product <Broad> was put in the basket
+2022-03-29 15:13:10 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 15:13:10 ERROR InputDataParser:48 - Incorrect input. For input string: "as"
+2022-03-29 15:13:10 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-29 15:13:10 INFO  PaymentHandler:23 - The payment.
+2022-03-29 15:13:10 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-29 15:13:10 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-29 15:13:10 INFO  PaymentHandler:42 - Created the receipt
+2022-03-29 15:13:10 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-29 15:14:21 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 15:14:21 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 15:14:21 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 15:14:21 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 15:14:21 INFO  InputDataParser:33 - The number 1 was found
+2022-03-29 15:14:21 INFO  InputDataParser:33 - The number 0 was found
+2022-03-29 15:14:21 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 15:14:21 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 15:14:21 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 15:14:21 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-29 15:14:21 INFO  InputDataParser:41 - The product id 2 was added
+2022-03-29 15:14:21 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-29 15:14:21 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-29 15:14:21 INFO  InputDataParser:44 - The amount of products 0 was added
+2022-03-29 15:14:21 INFO  InputDataParser:41 - The product id 8 was added
+2022-03-29 15:14:21 INFO  InputDataParser:44 - The amount of products 8 was added
+2022-03-29 15:14:21 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 15:14:21 INFO  ShopBasketCreator:27 - Product <Broad> was put in the basket
+2022-03-29 15:14:21 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-29 15:14:21 INFO  ShopBasketCreator:27 - Product <Salt> was put in the basket
+2022-03-29 15:14:21 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-29 15:14:21 INFO  PaymentHandler:23 - The payment.
+2022-03-29 15:14:21 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-29 15:14:21 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-29 15:14:21 INFO  PaymentHandler:42 - Created the receipt
+2022-03-29 15:14:21 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-29 15:14:21 INFO  InputDataParser:33 - The number 6543542 was found
+2022-03-29 15:14:21 INFO  InputDataParser:33 - The number 666 was found
+2022-03-29 15:14:21 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 15:14:21 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 15:14:21 INFO  InputDataParser:33 - The number 34 was found
+2022-03-29 15:14:21 INFO  InputDataParser:33 - The number 0 was found
+2022-03-29 15:14:21 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 15:14:21 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 15:14:21 INFO  InputDataParser:41 - The product id 6543542 was added
+2022-03-29 15:14:21 INFO  InputDataParser:44 - The amount of products 666 was added
+2022-03-29 15:14:21 INFO  InputDataParser:41 - The product id 2 was added
+2022-03-29 15:14:21 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-29 15:14:21 INFO  InputDataParser:41 - The product id 34 was added
+2022-03-29 15:14:21 INFO  InputDataParser:44 - The amount of products 0 was added
+2022-03-29 15:14:21 INFO  InputDataParser:41 - The product id 8 was added
+2022-03-29 15:14:21 INFO  InputDataParser:44 - The amount of products 8 was added
+2022-03-29 15:14:32 INFO  InputDataParser:33 - The number 6543542 was found
+2022-03-29 15:14:32 INFO  InputDataParser:33 - The number 666 was found
+2022-03-29 15:14:32 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 15:14:32 INFO  InputDataParser:33 - The number 2 was found
+2022-03-29 15:14:32 INFO  InputDataParser:33 - The number 34 was found
+2022-03-29 15:14:32 INFO  InputDataParser:33 - The number 0 was found
+2022-03-29 15:14:32 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 15:14:32 INFO  InputDataParser:33 - The number 8 was found
+2022-03-29 15:14:32 INFO  InputDataParser:41 - The product id 6543542 was added
+2022-03-29 15:14:32 INFO  InputDataParser:44 - The amount of products 666 was added
+2022-03-29 15:14:32 INFO  InputDataParser:41 - The product id 2 was added
+2022-03-29 15:14:32 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-29 15:14:32 INFO  InputDataParser:41 - The product id 34 was added
+2022-03-29 15:14:32 INFO  InputDataParser:44 - The amount of products 0 was added
+2022-03-29 15:14:32 INFO  InputDataParser:41 - The product id 8 was added
+2022-03-29 15:14:32 INFO  InputDataParser:44 - The amount of products 8 was added
+2022-03-30 01:37:19 INFO  CashierCreator:22 - Cashier with name 000 not found
+2022-03-30 01:38:45 INFO  CashierCreator:22 - Cashier with name 000 not found
+2022-03-30 01:40:19 INFO  CashierCreator:22 - Cashier with name Name not found
+2022-03-30 01:41:09 INFO  CashierCreator:22 - Cashier with name Name not found
+2022-03-30 01:41:29 INFO  CashierCreator:22 - Cashier with name Name not found
+2022-03-30 01:45:48 INFO  CashierCreator:22 - Cashier with name Name not found
+2022-03-30 01:47:48 INFO  CashierCreator:22 - Cashier with name Name not found
+2022-03-30 01:48:19 INFO  CashierCreator:22 - Cashier with name No name not found
+2022-03-30 01:48:27 INFO  CashierCreator:22 - Cashier with name No name not found
+2022-03-30 01:49:07 INFO  CashierCreator:22 - Cashier with name Olega not found
+2022-03-30 01:49:27 INFO  CashierCreator:22 - Cashier with name Valentin not found
+2022-03-31 01:00:11 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-31 01:00:11 INFO  ShopBasketCreator:27 - Product <Broad> was put in the basket
+2022-03-31 01:00:11 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-03-31 01:00:11 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 01:00:11 INFO  PaymentHandler:23 - The payment.
+2022-03-31 01:00:11 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 01:00:11 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 01:00:11 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 01:00:11 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 01:02:05 INFO  CashierCreator:22 - Cashier with name Valentin not found
+2022-03-31 01:06:05 INFO  CashierCreator:22 - Cashier with name Valentin not found
+2022-03-31 01:06:36 INFO  CashierCreator:22 - Cashier with name Valentin not found
+2022-03-31 02:05:34 INFO  CashierCreator:22 - Cashier with name Valentin not found
+2022-03-31 18:18:31 INFO  CashierCreator:22 - Cashier with name Valentin not found
+2022-03-31 18:36:53 INFO  CashierCreator:22 - Cashier with name Valentin not found
+2022-03-31 18:42:57 INFO  CashierCreator:22 - Cashier with name Valentin not found
+2022-03-31 18:49:32 INFO  CashierCreator:22 - Cashier with name Wrong Name not found
+2022-03-31 20:14:13 INFO  CashierCreator:22 - Cashier with name Wrong Name not found
+2022-03-31 20:27:12 INFO  CashierCreator:22 - Cashier with name Wrong Name not found
+2022-03-31 20:28:30 INFO  CashierCreator:22 - Cashier with name Wrong Name not found
+2022-03-31 20:29:32 INFO  CashierCreator:22 - Cashier with name Wrong Name not found
+2022-03-31 20:31:03 INFO  CashierCreator:22 - Cashier with name Unknown Name not found
+2022-03-31 20:31:29 INFO  CashierCreator:22 - Cashier with name Unknown Name not found
+2022-03-31 20:32:25 INFO  CashierCreator:22 - Cashier with name Valentin not found
+2022-03-31 20:32:25 INFO  CashierCreator:22 - Cashier with name Unknown Name not found
+2022-03-31 23:10:38 INFO  ReceiptRunner:21 - Parse input line
+2022-03-31 23:10:38 ERROR InputDataParser:48 - Incorrect input. For input string: "1ws2"
+2022-03-31 23:10:38 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:10:38 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:10:38 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:10:38 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:10:38 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:10:38 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:10:57 INFO  ReceiptRunner:21 - Parse input line
+2022-03-31 23:10:57 ERROR InputDataParser:48 - Incorrect input. For input string: "1ws2"
+2022-03-31 23:10:57 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:10:57 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:10:57 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:10:57 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:10:57 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:10:57 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:11:20 INFO  ReceiptRunner:21 - Parse input line
+2022-03-31 23:11:20 ERROR InputDataParser:48 - Incorrect input. For input string: "1ws2"
+2022-03-31 23:11:20 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:11:20 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:11:20 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:11:20 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:11:20 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:11:21 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:11:57 INFO  ReceiptRunner:21 - Parse input line
+2022-03-31 23:11:57 ERROR InputDataParser:48 - Incorrect input. For input string: "1ws2"
+2022-03-31 23:11:57 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:11:57 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:11:57 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:11:57 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:11:57 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:11:57 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:12:47 INFO  ReceiptRunner:21 - Parse input line
+2022-03-31 23:12:47 ERROR InputDataParser:49 - Incorrect input. For input string: "1ws2"
+2022-03-31 23:12:47 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:12:47 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:12:47 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:12:47 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:12:47 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:12:47 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:16:35 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:16:35 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:16:35 INFO  InputDataParser:33 - The number 3 was found
+2022-03-31 23:16:35 INFO  InputDataParser:33 - The number 2 was found
+2022-03-31 23:16:35 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:16:35 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:16:35 INFO  InputDataParser:33 - The number 5 was found
+2022-03-31 23:16:35 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:16:35 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-31 23:16:35 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:16:35 INFO  InputDataParser:41 - The product id 3 was added
+2022-03-31 23:16:35 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-31 23:16:35 INFO  InputDataParser:41 - The product id 4 was added
+2022-03-31 23:16:35 INFO  InputDataParser:44 - The amount of products 4 was added
+2022-03-31 23:16:35 INFO  InputDataParser:41 - The product id 5 was added
+2022-03-31 23:16:35 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:16:35 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-31 23:16:35 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-03-31 23:16:35 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-03-31 23:16:35 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-03-31 23:16:35 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:16:35 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:16:35 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:16:35 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:16:35 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:16:35 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 3 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 2 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 5 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:25:17 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-31 23:25:17 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:25:17 INFO  InputDataParser:41 - The product id 3 was added
+2022-03-31 23:25:17 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-31 23:25:17 INFO  InputDataParser:41 - The product id 4 was added
+2022-03-31 23:25:17 INFO  InputDataParser:44 - The amount of products 4 was added
+2022-03-31 23:25:17 INFO  InputDataParser:41 - The product id 5 was added
+2022-03-31 23:25:17 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:25:17 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-31 23:25:17 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-03-31 23:25:17 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-03-31 23:25:17 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-03-31 23:25:17 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:25:17 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:25:17 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:25:17 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:25:17 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:25:17 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 3 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 2 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 5 was found
+2022-03-31 23:25:17 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:25:17 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-31 23:25:17 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:25:17 INFO  InputDataParser:41 - The product id 3 was added
+2022-03-31 23:25:17 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-31 23:25:17 INFO  InputDataParser:41 - The product id 4 was added
+2022-03-31 23:25:17 INFO  InputDataParser:44 - The amount of products 4 was added
+2022-03-31 23:25:17 INFO  InputDataParser:41 - The product id 5 was added
+2022-03-31 23:25:17 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:25:17 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-31 23:25:17 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-03-31 23:25:17 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-03-31 23:25:17 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-03-31 23:25:17 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:25:17 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:25:17 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:25:17 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:25:17 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:25:17 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:28:36 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:28:36 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:28:36 INFO  InputDataParser:33 - The number 3 was found
+2022-03-31 23:28:36 INFO  InputDataParser:33 - The number 2 was found
+2022-03-31 23:28:36 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:28:36 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:28:36 INFO  InputDataParser:33 - The number 5 was found
+2022-03-31 23:28:36 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:28:36 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-31 23:28:36 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:28:36 INFO  InputDataParser:41 - The product id 3 was added
+2022-03-31 23:28:36 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-31 23:28:36 INFO  InputDataParser:41 - The product id 4 was added
+2022-03-31 23:28:36 INFO  InputDataParser:44 - The amount of products 4 was added
+2022-03-31 23:28:36 INFO  InputDataParser:41 - The product id 5 was added
+2022-03-31 23:28:36 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:28:36 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-31 23:28:36 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-03-31 23:28:36 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-03-31 23:28:36 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-03-31 23:28:36 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:28:36 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:28:36 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:28:36 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:28:36 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:28:36 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:30:32 ERROR InputDataParser:48 - Incorrect input. For input string: "as51"
+2022-03-31 23:30:32 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:30:32 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:30:32 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:30:32 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:30:32 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:30:32 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:31:04 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:31:04 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:31:04 INFO  InputDataParser:33 - The number 3 was found
+2022-03-31 23:31:04 INFO  InputDataParser:33 - The number 2 was found
+2022-03-31 23:31:04 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:31:04 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:31:04 INFO  InputDataParser:33 - The number 5 was found
+2022-03-31 23:31:04 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:31:04 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-31 23:31:04 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:31:04 INFO  InputDataParser:41 - The product id 3 was added
+2022-03-31 23:31:04 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-31 23:31:04 INFO  InputDataParser:41 - The product id 4 was added
+2022-03-31 23:31:04 INFO  InputDataParser:44 - The amount of products 4 was added
+2022-03-31 23:31:04 INFO  InputDataParser:41 - The product id 5 was added
+2022-03-31 23:31:04 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:31:04 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-31 23:31:04 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-03-31 23:31:04 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-03-31 23:31:04 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-03-31 23:31:04 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:31:04 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:31:04 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:31:04 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:31:04 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:31:04 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:31:04 ERROR InputDataParser:48 - Incorrect input. For input string: "as51"
+2022-03-31 23:31:04 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:31:04 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:31:04 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:31:04 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:31:04 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:31:04 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:31:58 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:31:58 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:31:58 INFO  InputDataParser:33 - The number 3 was found
+2022-03-31 23:31:58 INFO  InputDataParser:33 - The number 2 was found
+2022-03-31 23:31:58 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:31:58 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:31:58 INFO  InputDataParser:33 - The number 5 was found
+2022-03-31 23:31:58 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:31:58 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-31 23:31:58 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:31:58 INFO  InputDataParser:41 - The product id 3 was added
+2022-03-31 23:31:58 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-31 23:31:58 INFO  InputDataParser:41 - The product id 4 was added
+2022-03-31 23:31:58 INFO  InputDataParser:44 - The amount of products 4 was added
+2022-03-31 23:31:58 INFO  InputDataParser:41 - The product id 5 was added
+2022-03-31 23:31:58 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:31:58 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-31 23:31:58 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-03-31 23:31:58 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-03-31 23:31:58 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-03-31 23:31:58 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:31:58 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:31:58 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:31:58 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:31:58 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:31:58 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:31:58 ERROR InputDataParser:48 - Incorrect input. For input string: "as51"
+2022-03-31 23:31:58 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:31:58 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:31:58 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:31:58 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:31:58 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:31:58 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:33:33 ERROR InputDataParser:48 - Incorrect input. For input string: "as51"
+2022-03-31 23:33:33 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:33:33 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:33:33 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:33:33 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:33:33 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:33:33 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:34:06 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:34:06 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:34:06 INFO  InputDataParser:33 - The number 3 was found
+2022-03-31 23:34:06 INFO  InputDataParser:33 - The number 2 was found
+2022-03-31 23:34:06 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:34:06 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:34:06 INFO  InputDataParser:33 - The number 5 was found
+2022-03-31 23:34:06 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:34:06 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-31 23:34:06 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:34:06 INFO  InputDataParser:41 - The product id 3 was added
+2022-03-31 23:34:06 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-31 23:34:06 INFO  InputDataParser:41 - The product id 4 was added
+2022-03-31 23:34:06 INFO  InputDataParser:44 - The amount of products 4 was added
+2022-03-31 23:34:06 INFO  InputDataParser:41 - The product id 5 was added
+2022-03-31 23:34:06 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:34:06 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-31 23:34:06 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-03-31 23:34:06 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-03-31 23:34:06 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-03-31 23:34:06 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:34:06 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:34:06 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:34:06 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:34:06 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:34:06 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:34:39 ERROR InputDataParser:48 - Incorrect input. For input string: "as51"
+2022-03-31 23:34:39 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:34:39 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:34:39 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:34:39 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:34:39 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:34:39 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:35:36 ERROR InputDataParser:48 - Incorrect input. For input string: "as51"
+2022-03-31 23:35:36 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:35:36 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:35:36 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:35:36 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:35:36 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:35:36 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:37:27 ERROR InputDataParser:48 - Incorrect input. For input string: "as51"
+2022-03-31 23:37:27 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:37:27 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:37:27 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:37:27 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:37:27 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:37:27 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:42:23 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:42:23 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:42:23 INFO  InputDataParser:33 - The number 3 was found
+2022-03-31 23:42:23 INFO  InputDataParser:33 - The number 2 was found
+2022-03-31 23:42:23 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:42:23 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:42:23 INFO  InputDataParser:33 - The number 5 was found
+2022-03-31 23:42:23 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:42:23 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-31 23:42:23 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:42:23 INFO  InputDataParser:41 - The product id 3 was added
+2022-03-31 23:42:23 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-31 23:42:23 INFO  InputDataParser:41 - The product id 4 was added
+2022-03-31 23:42:23 INFO  InputDataParser:44 - The amount of products 4 was added
+2022-03-31 23:42:23 INFO  InputDataParser:41 - The product id 5 was added
+2022-03-31 23:42:23 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:42:23 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-31 23:42:23 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-03-31 23:42:23 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-03-31 23:42:23 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-03-31 23:42:23 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:42:23 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:42:23 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:42:23 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:42:23 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:42:23 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:42:42 INFO  CashierCreator:22 - Cashier with name Unknown Name not found
+2022-03-31 23:42:56 ERROR InputDataParser:48 - Incorrect input. For input string: "as51"
+2022-03-31 23:42:56 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:42:56 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:42:56 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:42:56 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:42:56 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:42:56 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:45:39 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:45:39 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:45:39 INFO  InputDataParser:33 - The number 3 was found
+2022-03-31 23:45:39 INFO  InputDataParser:33 - The number 2 was found
+2022-03-31 23:45:39 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:45:39 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:45:39 INFO  InputDataParser:33 - The number 5 was found
+2022-03-31 23:45:39 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:45:39 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-31 23:45:39 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:45:39 INFO  InputDataParser:41 - The product id 3 was added
+2022-03-31 23:45:39 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-31 23:45:39 INFO  InputDataParser:41 - The product id 4 was added
+2022-03-31 23:45:39 INFO  InputDataParser:44 - The amount of products 4 was added
+2022-03-31 23:45:39 INFO  InputDataParser:41 - The product id 5 was added
+2022-03-31 23:45:39 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:45:39 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-31 23:45:39 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-03-31 23:45:39 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-03-31 23:45:39 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-03-31 23:45:39 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:45:39 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:45:39 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:45:39 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:45:39 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:45:39 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:46:01 ERROR InputDataParser:48 - Incorrect input. For input string: "1as51"
+2022-03-31 23:46:01 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:46:01 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:46:01 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:46:01 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:46:01 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:46:01 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:47:57 ERROR InputDataParser:48 - Incorrect input. For input string: "1as51"
+2022-03-31 23:47:57 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:47:57 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:47:57 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:47:57 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:47:57 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:47:57 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:48:54 ERROR InputDataParser:48 - Incorrect input. For input string: "1as51"
+2022-03-31 23:48:54 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:48:54 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:48:54 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:48:54 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:48:54 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:48:54 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:49:19 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:49:19 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:49:19 INFO  InputDataParser:33 - The number 3 was found
+2022-03-31 23:49:19 INFO  InputDataParser:33 - The number 2 was found
+2022-03-31 23:49:19 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:49:19 INFO  InputDataParser:33 - The number 4 was found
+2022-03-31 23:49:19 INFO  InputDataParser:33 - The number 5 was found
+2022-03-31 23:49:19 INFO  InputDataParser:33 - The number 1 was found
+2022-03-31 23:49:19 INFO  InputDataParser:41 - The product id 1 was added
+2022-03-31 23:49:19 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:49:19 INFO  InputDataParser:41 - The product id 3 was added
+2022-03-31 23:49:19 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-03-31 23:49:19 INFO  InputDataParser:41 - The product id 4 was added
+2022-03-31 23:49:19 INFO  InputDataParser:44 - The amount of products 4 was added
+2022-03-31 23:49:19 INFO  InputDataParser:41 - The product id 5 was added
+2022-03-31 23:49:19 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-03-31 23:49:19 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-03-31 23:49:19 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-03-31 23:49:19 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-03-31 23:49:19 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-03-31 23:49:19 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-03-31 23:49:19 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:49:19 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:49:19 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:49:19 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:49:20 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:54:00 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:54:00 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:54:00 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:54:00 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:54:00 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:54:11 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:54:11 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:54:11 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:54:11 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:54:11 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:58:46 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:58:46 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:58:46 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:58:46 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:58:46 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:58:58 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:58:58 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:58:58 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:58:58 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:58:58 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:58:58 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:58:58 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:58:58 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:58:58 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:58:58 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-03-31 23:59:55 INFO  PaymentHandler:23 - The payment.
+2022-03-31 23:59:55 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-03-31 23:59:55 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-03-31 23:59:55 INFO  PaymentHandler:42 - Created the receipt
+2022-03-31 23:59:55 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:02:35 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:02:35 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:02:35 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:02:35 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:02:35 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:02:59 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:02:59 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:02:59 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:02:59 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:02:59 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:02:59 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:02:59 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:02:59 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:02:59 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:02:59 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:03:27 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:03:27 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:03:27 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:03:27 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:03:27 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:03:27 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:03:27 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:03:27 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:03:27 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:03:27 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:07:51 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:07:51 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:07:51 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:07:51 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:07:51 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:07:51 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:07:51 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:07:51 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:07:51 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:07:51 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:08:17 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:08:17 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:08:17 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:08:17 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:08:17 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:08:55 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:08:55 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:08:55 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:08:55 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:08:55 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:09:12 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:09:12 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:09:12 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:09:12 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:09:12 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:11:37 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:11:37 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:11:37 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:11:37 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:11:37 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:11:37 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:11:37 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:11:37 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:11:37 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:11:37 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:12:12 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:12:12 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:12:12 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:12:12 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:12:12 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:12:12 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:12:12 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:12:12 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:12:12 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:12:12 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:21:39 INFO  ReceiptRunner:21 - Parse input line
+2022-04-01 00:21:39 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-04-01 00:21:39 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:21:39 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:21:39 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:21:39 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:21:39 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:38:51 INFO  CashierCreator:22 - Cashier with name Valentin not found
+2022-04-01 00:38:52 INFO  InputDataParser:33 - The number 1 was found
+2022-04-01 00:38:52 INFO  InputDataParser:33 - The number 1 was found
+2022-04-01 00:38:52 INFO  InputDataParser:33 - The number 3 was found
+2022-04-01 00:38:52 INFO  InputDataParser:33 - The number 2 was found
+2022-04-01 00:38:52 INFO  InputDataParser:33 - The number 4 was found
+2022-04-01 00:38:52 INFO  InputDataParser:33 - The number 4 was found
+2022-04-01 00:38:52 INFO  InputDataParser:33 - The number 5 was found
+2022-04-01 00:38:52 INFO  InputDataParser:33 - The number 1 was found
+2022-04-01 00:38:52 INFO  InputDataParser:41 - The product id 1 was added
+2022-04-01 00:38:52 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-04-01 00:38:52 INFO  InputDataParser:41 - The product id 3 was added
+2022-04-01 00:38:52 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-04-01 00:38:52 INFO  InputDataParser:41 - The product id 4 was added
+2022-04-01 00:38:52 INFO  InputDataParser:44 - The amount of products 4 was added
+2022-04-01 00:38:52 INFO  InputDataParser:41 - The product id 5 was added
+2022-04-01 00:38:52 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-04-01 00:38:52 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-04-01 00:38:52 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-04-01 00:38:52 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-04-01 00:38:52 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-04-01 00:38:52 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-04-01 00:38:52 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:38:52 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:38:52 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:38:52 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:38:52 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:38:52 INFO  CashierCreator:22 - Cashier with name Unknown Name not found
+2022-04-01 00:38:52 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:38:52 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:38:52 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:38:52 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:38:52 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:38:52 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:38:52 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:38:52 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:38:52 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:38:52 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 00:43:02 INFO  ReceiptRunner:21 - Parse input line
+2022-04-01 00:43:02 ERROR InputDataParser:48 - Incorrect input. For input string: "1ok1"
+2022-04-01 00:43:02 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-04-01 00:43:02 INFO  PaymentHandler:23 - The payment.
+2022-04-01 00:43:02 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 00:43:02 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 00:43:02 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 00:43:02 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 01:12:47 INFO  CashierCreator:22 - Cashier with name Valentin not found
+2022-04-01 01:12:47 INFO  InputDataParser:33 - The number 1 was found
+2022-04-01 01:12:47 INFO  InputDataParser:33 - The number 1 was found
+2022-04-01 01:12:47 INFO  InputDataParser:33 - The number 3 was found
+2022-04-01 01:12:47 INFO  InputDataParser:33 - The number 2 was found
+2022-04-01 01:12:47 INFO  InputDataParser:33 - The number 4 was found
+2022-04-01 01:12:47 INFO  InputDataParser:33 - The number 4 was found
+2022-04-01 01:12:47 INFO  InputDataParser:33 - The number 5 was found
+2022-04-01 01:12:47 INFO  InputDataParser:33 - The number 1 was found
+2022-04-01 01:12:47 INFO  InputDataParser:41 - The product id 1 was added
+2022-04-01 01:12:47 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-04-01 01:12:47 INFO  InputDataParser:41 - The product id 3 was added
+2022-04-01 01:12:47 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-04-01 01:12:47 INFO  InputDataParser:41 - The product id 4 was added
+2022-04-01 01:12:47 INFO  InputDataParser:44 - The amount of products 4 was added
+2022-04-01 01:12:47 INFO  InputDataParser:41 - The product id 5 was added
+2022-04-01 01:12:47 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-04-01 01:12:47 INFO  ShopBasketCreator:27 - Product <Water> was put in the basket
+2022-04-01 01:12:47 INFO  ShopBasketCreator:27 - Product <Butter> was put in the basket
+2022-04-01 01:12:47 INFO  ShopBasketCreator:27 - Product <Sugar> was put in the basket
+2022-04-01 01:12:47 INFO  ShopBasketCreator:27 - Product <Meat> was put in the basket
+2022-04-01 01:12:47 INFO  ShopBasketCreator:36 - Created the object of shop basket.
+2022-04-01 01:12:47 INFO  PaymentHandler:23 - The payment.
+2022-04-01 01:12:47 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 01:12:47 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 01:12:47 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 01:12:48 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 01:12:48 INFO  CashierCreator:22 - Cashier with name Unknown Name not found
+2022-04-01 01:12:48 INFO  PaymentHandler:23 - The payment.
+2022-04-01 01:12:48 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 01:12:48 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 01:12:48 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 01:12:48 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 01:12:48 INFO  PaymentHandler:23 - The payment.
+2022-04-01 01:12:48 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-01 01:12:48 INFO  PaymentHandler:39 - Calculated the amount of the discount and the amount of payment
+2022-04-01 01:12:48 INFO  PaymentHandler:42 - Created the receipt
+2022-04-01 01:12:48 INFO  PaymentHandler:46 - The receipt was recorded in the txt file
+2022-04-01 01:16:04 INFO  CashierCreator:22 - Cashier with name Unknown Name not found
+2022-04-17 22:01:16 INFO  ReceiptRunner:21 - Parse input line
+2022-04-17 22:01:16 INFO  InputDataParser:36 - The number 1 was found
+2022-04-17 22:01:16 INFO  InputDataParser:36 - The number 6 was found
+2022-04-17 22:01:16 INFO  InputDataParser:36 - The number 2 was found
+2022-04-17 22:01:16 INFO  InputDataParser:36 - The number 2 was found
+2022-04-17 22:01:16 INFO  InputDataParser:36 - The number 3 was found
+2022-04-17 22:01:16 INFO  InputDataParser:36 - The number 1 was found
+2022-04-17 22:01:16 INFO  InputDataParser:36 - The number 4 was found
+2022-04-17 22:01:16 INFO  InputDataParser:36 - The number 2 was found
+2022-04-17 22:01:16 INFO  InputDataParser:36 - The number 5 was found
+2022-04-17 22:01:16 INFO  InputDataParser:36 - The number 5 was found
+2022-04-17 22:01:16 INFO  InputDataParser:36 - The number 6 was found
+2022-04-17 22:01:16 INFO  InputDataParser:36 - The number 1 was found
+2022-04-17 22:01:16 INFO  InputDataParser:32 - The card with number 1221 was found
+2022-04-17 22:01:16 INFO  InputDataParser:44 - The product id 1 was added
+2022-04-17 22:01:16 INFO  InputDataParser:47 - The amount of products 6 was added
+2022-04-17 22:01:16 INFO  InputDataParser:44 - The product id 2 was added
+2022-04-17 22:01:16 INFO  InputDataParser:47 - The amount of products 2 was added
+2022-04-17 22:01:16 INFO  InputDataParser:44 - The product id 3 was added
+2022-04-17 22:01:16 INFO  InputDataParser:47 - The amount of products 1 was added
+2022-04-17 22:01:16 INFO  InputDataParser:44 - The product id 4 was added
+2022-04-17 22:01:16 INFO  InputDataParser:47 - The amount of products 2 was added
+2022-04-17 22:01:16 INFO  InputDataParser:44 - The product id 5 was added
+2022-04-17 22:01:16 INFO  InputDataParser:47 - The amount of products 5 was added
+2022-04-17 22:01:16 INFO  InputDataParser:44 - The product id 6 was added
+2022-04-17 22:01:16 INFO  InputDataParser:47 - The amount of products 1 was added
+2022-04-17 22:01:16 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-04-17 22:01:16 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-17 22:01:17 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-04-17 22:01:17 INFO  pooling:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/checkrunner]
+2022-04-17 22:01:17 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=root}
+2022-04-17 22:01:17 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-04-17 22:01:17 INFO  DriverManagerConnectionProviderImpl:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-04-17 22:01:17 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-04-17 22:01:18 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-17 22:01:18 INFO  ShopBasketCreator:46 - Created the object of shop basket.
+2022-04-17 22:01:18 INFO  PaymentHandler:23 - The payment.
+2022-04-17 22:01:18 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-17 22:01:18 ERROR ReceiptRunner:25 - java.lang.NullPointerException: Cannot invoke "java.util.ArrayList.size()" because the return value of "by.markov.models.ShopBasket.getProducts()" is null
+2022-04-17 22:02:30 INFO  ReceiptRunner:21 - Parse input line
+2022-04-17 22:02:30 INFO  InputDataParser:36 - The number 1 was found
+2022-04-17 22:02:30 INFO  InputDataParser:36 - The number 6 was found
+2022-04-17 22:02:30 INFO  InputDataParser:36 - The number 2 was found
+2022-04-17 22:02:30 INFO  InputDataParser:36 - The number 2 was found
+2022-04-17 22:02:30 INFO  InputDataParser:36 - The number 3 was found
+2022-04-17 22:02:30 INFO  InputDataParser:36 - The number 1 was found
+2022-04-17 22:02:30 INFO  InputDataParser:36 - The number 4 was found
+2022-04-17 22:02:30 INFO  InputDataParser:36 - The number 2 was found
+2022-04-17 22:02:30 INFO  InputDataParser:36 - The number 5 was found
+2022-04-17 22:02:30 INFO  InputDataParser:36 - The number 5 was found
+2022-04-17 22:02:30 INFO  InputDataParser:36 - The number 6 was found
+2022-04-17 22:02:30 INFO  InputDataParser:36 - The number 1 was found
+2022-04-17 22:02:30 INFO  InputDataParser:32 - The card with number 1221 was found
+2022-04-17 22:02:30 INFO  InputDataParser:44 - The product id 1 was added
+2022-04-17 22:02:30 INFO  InputDataParser:47 - The amount of products 6 was added
+2022-04-17 22:02:30 INFO  InputDataParser:44 - The product id 2 was added
+2022-04-17 22:02:30 INFO  InputDataParser:47 - The amount of products 2 was added
+2022-04-17 22:02:30 INFO  InputDataParser:44 - The product id 3 was added
+2022-04-17 22:02:30 INFO  InputDataParser:47 - The amount of products 1 was added
+2022-04-17 22:02:30 INFO  InputDataParser:44 - The product id 4 was added
+2022-04-17 22:02:30 INFO  InputDataParser:47 - The amount of products 2 was added
+2022-04-17 22:02:30 INFO  InputDataParser:44 - The product id 5 was added
+2022-04-17 22:02:30 INFO  InputDataParser:47 - The amount of products 5 was added
+2022-04-17 22:02:30 INFO  InputDataParser:44 - The product id 6 was added
+2022-04-17 22:02:30 INFO  InputDataParser:47 - The amount of products 1 was added
+2022-04-17 22:02:30 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-04-17 22:02:31 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-17 22:02:31 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-04-17 22:02:31 INFO  pooling:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/checkrunner]
+2022-04-17 22:02:31 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=root}
+2022-04-17 22:02:31 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-04-17 22:02:31 INFO  DriverManagerConnectionProviderImpl:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-04-17 22:02:31 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-04-17 22:02:32 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-17 22:02:32 INFO  ShopBasketCreator:46 - Created the object of shop basket.
+2022-04-17 22:02:32 INFO  PaymentHandler:23 - The payment.
+2022-04-17 22:02:32 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-17 22:02:32 ERROR ReceiptRunner:25 - java.lang.NullPointerException: Cannot invoke "java.util.ArrayList.size()" because the return value of "by.markov.models.ShopBasket.getProducts()" is null
+2022-04-17 22:03:33 INFO  ReceiptRunner:21 - Parse input line
+2022-04-17 22:03:33 INFO  InputDataParser:36 - The number 1 was found
+2022-04-17 22:03:33 INFO  InputDataParser:36 - The number 6 was found
+2022-04-17 22:03:33 INFO  InputDataParser:36 - The number 2 was found
+2022-04-17 22:03:33 INFO  InputDataParser:36 - The number 2 was found
+2022-04-17 22:03:33 INFO  InputDataParser:36 - The number 3 was found
+2022-04-17 22:03:33 INFO  InputDataParser:36 - The number 1 was found
+2022-04-17 22:03:33 INFO  InputDataParser:36 - The number 4 was found
+2022-04-17 22:03:33 INFO  InputDataParser:36 - The number 2 was found
+2022-04-17 22:03:33 INFO  InputDataParser:36 - The number 5 was found
+2022-04-17 22:03:33 INFO  InputDataParser:36 - The number 5 was found
+2022-04-17 22:03:33 INFO  InputDataParser:36 - The number 6 was found
+2022-04-17 22:03:33 INFO  InputDataParser:36 - The number 1 was found
+2022-04-17 22:03:33 INFO  InputDataParser:32 - The card with number 1221 was found
+2022-04-17 22:03:33 INFO  InputDataParser:44 - The product id 1 was added
+2022-04-17 22:03:33 INFO  InputDataParser:47 - The amount of products 6 was added
+2022-04-17 22:03:33 INFO  InputDataParser:44 - The product id 2 was added
+2022-04-17 22:03:33 INFO  InputDataParser:47 - The amount of products 2 was added
+2022-04-17 22:03:33 INFO  InputDataParser:44 - The product id 3 was added
+2022-04-17 22:03:33 INFO  InputDataParser:47 - The amount of products 1 was added
+2022-04-17 22:03:33 INFO  InputDataParser:44 - The product id 4 was added
+2022-04-17 22:03:33 INFO  InputDataParser:47 - The amount of products 2 was added
+2022-04-17 22:03:33 INFO  InputDataParser:44 - The product id 5 was added
+2022-04-17 22:03:33 INFO  InputDataParser:47 - The amount of products 5 was added
+2022-04-17 22:03:33 INFO  InputDataParser:44 - The product id 6 was added
+2022-04-17 22:03:33 INFO  InputDataParser:47 - The amount of products 1 was added
+2022-04-17 22:03:34 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-04-17 22:03:34 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-17 22:03:34 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-04-17 22:03:34 INFO  pooling:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/checkrunner]
+2022-04-17 22:03:34 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=root}
+2022-04-17 22:03:34 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-04-17 22:03:34 INFO  DriverManagerConnectionProviderImpl:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-04-17 22:03:35 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-04-17 22:03:35 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-17 22:03:35 INFO  ShopBasketCreator:46 - Created the object of shop basket.
+2022-04-17 22:03:35 INFO  PaymentHandler:23 - The payment.
+2022-04-17 22:03:35 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-17 22:03:35 ERROR ReceiptRunner:25 - java.lang.NullPointerException: Cannot invoke "java.util.ArrayList.size()" because the return value of "by.markov.models.ShopBasket.getProducts()" is null
+2022-04-17 22:04:26 INFO  ReceiptRunner:21 - Parse input line
+2022-04-17 22:04:26 INFO  InputDataParser:36 - The number 1 was found
+2022-04-17 22:04:26 INFO  InputDataParser:36 - The number 6 was found
+2022-04-17 22:04:26 INFO  InputDataParser:36 - The number 2 was found
+2022-04-17 22:04:26 INFO  InputDataParser:36 - The number 2 was found
+2022-04-17 22:04:26 INFO  InputDataParser:36 - The number 3 was found
+2022-04-17 22:04:26 INFO  InputDataParser:36 - The number 1 was found
+2022-04-17 22:04:26 INFO  InputDataParser:36 - The number 4 was found
+2022-04-17 22:04:26 INFO  InputDataParser:36 - The number 2 was found
+2022-04-17 22:04:26 INFO  InputDataParser:36 - The number 5 was found
+2022-04-17 22:04:26 INFO  InputDataParser:36 - The number 5 was found
+2022-04-17 22:04:26 INFO  InputDataParser:36 - The number 6 was found
+2022-04-17 22:04:26 INFO  InputDataParser:36 - The number 1 was found
+2022-04-17 22:04:26 INFO  InputDataParser:32 - The card with number 1221 was found
+2022-04-17 22:04:26 INFO  InputDataParser:44 - The product id 1 was added
+2022-04-17 22:04:26 INFO  InputDataParser:47 - The amount of products 6 was added
+2022-04-17 22:04:26 INFO  InputDataParser:44 - The product id 2 was added
+2022-04-17 22:04:26 INFO  InputDataParser:47 - The amount of products 2 was added
+2022-04-17 22:04:26 INFO  InputDataParser:44 - The product id 3 was added
+2022-04-17 22:04:26 INFO  InputDataParser:47 - The amount of products 1 was added
+2022-04-17 22:04:26 INFO  InputDataParser:44 - The product id 4 was added
+2022-04-17 22:04:26 INFO  InputDataParser:47 - The amount of products 2 was added
+2022-04-17 22:04:26 INFO  InputDataParser:44 - The product id 5 was added
+2022-04-17 22:04:26 INFO  InputDataParser:47 - The amount of products 5 was added
+2022-04-17 22:04:26 INFO  InputDataParser:44 - The product id 6 was added
+2022-04-17 22:04:26 INFO  InputDataParser:47 - The amount of products 1 was added
+2022-04-17 22:04:26 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-04-17 22:04:27 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-17 22:04:27 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-04-17 22:04:27 INFO  pooling:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/checkrunner]
+2022-04-17 22:04:27 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=root}
+2022-04-17 22:04:27 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-04-17 22:04:27 INFO  DriverManagerConnectionProviderImpl:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-04-17 22:04:27 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-04-17 22:04:28 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-17 22:04:28 INFO  ShopBasketCreator:46 - Created the object of shop basket.
+2022-04-17 22:04:28 INFO  PaymentHandler:23 - The payment.
+2022-04-17 22:04:28 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-17 22:04:28 ERROR ReceiptRunner:25 - java.lang.NullPointerException: Cannot invoke "java.util.ArrayList.size()" because the return value of "by.markov.models.ShopBasket.getProduct()" is null
+2022-04-18 01:29:02 INFO  ReceiptRunner:21 - Parse input line
+2022-04-18 01:29:02 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 01:29:02 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 01:29:02 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 01:29:02 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 01:29:02 INFO  InputDataParser:34 - The number 3 was found
+2022-04-18 01:29:02 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 01:29:02 INFO  InputDataParser:34 - The number 4 was found
+2022-04-18 01:29:02 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 01:29:02 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 01:29:02 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 01:29:02 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 01:29:02 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 01:29:02 INFO  InputDataParser:30 - The card with number 1221 was found
+2022-04-18 01:29:02 INFO  InputDataParser:42 - The product id 1 was added
+2022-04-18 01:29:02 INFO  InputDataParser:45 - The amount of products 6 was added
+2022-04-18 01:29:02 INFO  InputDataParser:42 - The product id 2 was added
+2022-04-18 01:29:02 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 01:29:02 INFO  InputDataParser:42 - The product id 3 was added
+2022-04-18 01:29:02 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 01:29:02 INFO  InputDataParser:42 - The product id 4 was added
+2022-04-18 01:29:02 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 01:29:02 INFO  InputDataParser:42 - The product id 5 was added
+2022-04-18 01:29:02 INFO  InputDataParser:45 - The amount of products 5 was added
+2022-04-18 01:29:02 INFO  InputDataParser:42 - The product id 6 was added
+2022-04-18 01:29:02 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 01:29:02 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-04-18 01:29:02 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-18 01:29:02 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-04-18 01:29:02 INFO  pooling:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/checkrunner]
+2022-04-18 01:29:02 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=root}
+2022-04-18 01:29:02 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-04-18 01:29:02 INFO  DriverManagerConnectionProviderImpl:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-04-18 01:29:03 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-04-18 01:29:03 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-18 01:29:03 INFO  ShopBasketCreator:28 - Created the object of shop basket.
+2022-04-18 01:29:03 INFO  PaymentHandler:23 - The payment.
+2022-04-18 01:29:03 INFO  PaymentHandler:28 - The cashier with id: 133 and name: CASHIER was created
+2022-04-18 01:29:03 INFO  PaymentHandler:53 - Calculated the amount of the discount and the amount of payment
+2022-04-18 01:29:03 INFO  PaymentHandler:56 - Created the receipt
+2022-04-18 01:29:04 INFO  PaymentHandler:60 - The receipt was recorded in the txt file
+2022-04-18 01:39:22 INFO  ReceiptRunner:21 - Parse input line
+2022-04-18 01:39:22 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 01:39:22 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 01:39:22 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 01:39:22 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 01:39:22 INFO  InputDataParser:34 - The number 3 was found
+2022-04-18 01:39:22 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 01:39:22 INFO  InputDataParser:34 - The number 4 was found
+2022-04-18 01:39:22 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 01:39:22 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 01:39:22 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 01:39:22 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 01:39:22 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 01:39:22 INFO  InputDataParser:30 - The card with number 1221 was found
+2022-04-18 01:39:22 INFO  InputDataParser:42 - The product id 1 was added
+2022-04-18 01:39:22 INFO  InputDataParser:45 - The amount of products 6 was added
+2022-04-18 01:39:22 INFO  InputDataParser:42 - The product id 2 was added
+2022-04-18 01:39:22 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 01:39:22 INFO  InputDataParser:42 - The product id 3 was added
+2022-04-18 01:39:22 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 01:39:22 INFO  InputDataParser:42 - The product id 4 was added
+2022-04-18 01:39:22 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 01:39:22 INFO  InputDataParser:42 - The product id 5 was added
+2022-04-18 01:39:22 INFO  InputDataParser:45 - The amount of products 5 was added
+2022-04-18 01:39:22 INFO  InputDataParser:42 - The product id 6 was added
+2022-04-18 01:39:22 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 01:39:22 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-04-18 01:39:23 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-18 01:39:23 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-04-18 01:39:23 INFO  pooling:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/checkrunner]
+2022-04-18 01:39:23 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=root}
+2022-04-18 01:39:23 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-04-18 01:39:23 INFO  DriverManagerConnectionProviderImpl:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-04-18 01:39:23 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-04-18 01:39:24 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-18 01:39:24 INFO  ShopBasketCreator:28 - Created the object of shop basket.
+2022-04-18 01:39:24 INFO  PaymentHandler:22 - The payment.
+2022-04-18 01:39:24 INFO  PaymentHandler:27 - The cashier with id: 133 and name: CASHIER was created
+2022-04-18 01:39:24 INFO  PaymentHandler:41 - Calculated the amount of the discount and the amount of payment
+2022-04-18 01:39:24 INFO  PaymentHandler:44 - Created the receipt
+2022-04-18 01:39:24 INFO  PaymentHandler:48 - The receipt was recorded in the txt file
+2022-04-18 01:44:10 INFO  ReceiptRunner:21 - Parse input line
+2022-04-18 01:44:10 INFO  InputDataParser:34 - The number 15 was found
+2022-04-18 01:44:10 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 01:44:10 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 01:44:10 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 01:44:10 INFO  InputDataParser:34 - The number 3 was found
+2022-04-18 01:44:10 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 01:44:10 INFO  InputDataParser:34 - The number 4 was found
+2022-04-18 01:44:10 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 01:44:10 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 01:44:10 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 01:44:10 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 01:44:10 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 01:44:10 INFO  InputDataParser:30 - The card with number 1221 was found
+2022-04-18 01:44:10 INFO  InputDataParser:42 - The product id 15 was added
+2022-04-18 01:44:10 INFO  InputDataParser:45 - The amount of products 6 was added
+2022-04-18 01:44:10 INFO  InputDataParser:42 - The product id 2 was added
+2022-04-18 01:44:10 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 01:44:10 INFO  InputDataParser:42 - The product id 3 was added
+2022-04-18 01:44:10 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 01:44:10 INFO  InputDataParser:42 - The product id 4 was added
+2022-04-18 01:44:10 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 01:44:10 INFO  InputDataParser:42 - The product id 5 was added
+2022-04-18 01:44:10 INFO  InputDataParser:45 - The amount of products 5 was added
+2022-04-18 01:44:10 INFO  InputDataParser:42 - The product id 6 was added
+2022-04-18 01:44:10 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 01:44:11 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-04-18 01:44:11 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-18 01:44:11 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-04-18 01:44:11 INFO  pooling:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/checkrunner]
+2022-04-18 01:44:11 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=root}
+2022-04-18 01:44:11 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-04-18 01:44:11 INFO  DriverManagerConnectionProviderImpl:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-04-18 01:44:12 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-04-18 01:44:12 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-18 01:44:12 INFO  ShopBasketCreator:26 - Created the object of shop basket.
+2022-04-18 01:44:12 INFO  PaymentHandler:22 - The payment.
+2022-04-18 01:44:12 INFO  PaymentHandler:27 - The cashier with id: 133 and name: CASHIER was created
+2022-04-18 01:44:12 ERROR ReceiptRunner:25 - java.lang.NullPointerException: Cannot invoke "by.markov.models.entity.Product.getPrice()" because the return value of "java.util.ArrayList.get(int)" is null
+2022-04-18 01:45:17 INFO  ReceiptRunner:21 - Parse input line
+2022-04-18 01:45:17 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 01:45:17 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 01:45:17 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 01:45:17 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 01:45:17 INFO  InputDataParser:34 - The number 3 was found
+2022-04-18 01:45:17 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 01:45:17 INFO  InputDataParser:34 - The number 4 was found
+2022-04-18 01:45:17 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 01:45:17 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 01:45:17 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 01:45:17 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 01:45:17 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 01:45:17 INFO  InputDataParser:30 - The card with number 1221 was found
+2022-04-18 01:45:17 INFO  InputDataParser:42 - The product id 1 was added
+2022-04-18 01:45:17 INFO  InputDataParser:45 - The amount of products 6 was added
+2022-04-18 01:45:17 INFO  InputDataParser:42 - The product id 2 was added
+2022-04-18 01:45:17 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 01:45:17 INFO  InputDataParser:42 - The product id 3 was added
+2022-04-18 01:45:17 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 01:45:17 INFO  InputDataParser:42 - The product id 4 was added
+2022-04-18 01:45:17 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 01:45:17 INFO  InputDataParser:42 - The product id 5 was added
+2022-04-18 01:45:17 INFO  InputDataParser:45 - The amount of products 5 was added
+2022-04-18 01:45:17 INFO  InputDataParser:42 - The product id 6 was added
+2022-04-18 01:45:17 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 01:45:17 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-04-18 01:45:18 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-18 01:45:18 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-04-18 01:45:18 INFO  pooling:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/checkrunner]
+2022-04-18 01:45:18 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=root}
+2022-04-18 01:45:18 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-04-18 01:45:18 INFO  DriverManagerConnectionProviderImpl:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-04-18 01:45:18 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-04-18 01:45:19 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-18 01:45:19 INFO  ShopBasketCreator:26 - Created the object of shop basket.
+2022-04-18 01:45:19 INFO  PaymentHandler:22 - The payment.
+2022-04-18 01:45:19 INFO  PaymentHandler:27 - The cashier with id: 133 and name: CASHIER was created
+2022-04-18 01:45:19 INFO  PaymentHandler:41 - Calculated the amount of the discount and the amount of payment
+2022-04-18 01:45:19 INFO  PaymentHandler:44 - Created the receipt
+2022-04-18 01:45:20 INFO  PaymentHandler:48 - The receipt was recorded in the txt file
+2022-04-18 01:53:17 INFO  ReceiptRunner:21 - Parse input line
+2022-04-18 01:53:17 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 01:53:17 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 01:53:17 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 01:53:17 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 01:53:17 INFO  InputDataParser:34 - The number 3 was found
+2022-04-18 01:53:17 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 01:53:17 INFO  InputDataParser:34 - The number 4 was found
+2022-04-18 01:53:17 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 01:53:17 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 01:53:17 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 01:53:17 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 01:53:17 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 01:53:17 INFO  InputDataParser:30 - The card with number 1221 was found
+2022-04-18 01:53:17 INFO  InputDataParser:42 - The product id 1 was added
+2022-04-18 01:53:17 INFO  InputDataParser:45 - The amount of products 6 was added
+2022-04-18 01:53:17 INFO  InputDataParser:42 - The product id 2 was added
+2022-04-18 01:53:17 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 01:53:17 INFO  InputDataParser:42 - The product id 3 was added
+2022-04-18 01:53:17 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 01:53:17 INFO  InputDataParser:42 - The product id 4 was added
+2022-04-18 01:53:17 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 01:53:17 INFO  InputDataParser:42 - The product id 5 was added
+2022-04-18 01:53:17 INFO  InputDataParser:45 - The amount of products 5 was added
+2022-04-18 01:53:17 INFO  InputDataParser:42 - The product id 6 was added
+2022-04-18 01:53:17 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 01:53:17 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-04-18 01:53:18 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-18 01:53:18 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-04-18 01:53:18 INFO  pooling:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/checkrunner]
+2022-04-18 01:53:18 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=root}
+2022-04-18 01:53:18 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-04-18 01:53:18 INFO  DriverManagerConnectionProviderImpl:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-04-18 01:53:18 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-04-18 01:53:19 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-18 01:53:19 INFO  ShopBasketCreator:26 - Created the object of shop basket.
+2022-04-18 01:53:19 INFO  PaymentHandler:22 - The payment.
+2022-04-18 01:53:19 INFO  PaymentHandler:27 - The cashier with id: 133 and name: CASHIER was created
+2022-04-18 01:53:19 INFO  PaymentHandler:41 - Calculated the amount of the discount and the amount of payment
+2022-04-18 01:53:19 INFO  PaymentHandler:44 - Created the receipt
+2022-04-18 01:53:19 INFO  PaymentHandler:48 - The receipt was recorded in the txt file
+2022-04-18 01:53:58 INFO  ReceiptRunner:21 - Parse input line
+2022-04-18 01:53:58 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 01:53:58 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 01:53:58 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 01:53:58 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 01:53:58 INFO  InputDataParser:34 - The number 3 was found
+2022-04-18 01:53:58 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 01:53:58 INFO  InputDataParser:34 - The number 4 was found
+2022-04-18 01:53:58 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 01:53:58 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 01:53:58 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 01:53:58 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 01:53:58 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 01:53:58 INFO  InputDataParser:30 - The card with number 1221 was found
+2022-04-18 01:53:58 INFO  InputDataParser:42 - The product id 1 was added
+2022-04-18 01:53:58 INFO  InputDataParser:45 - The amount of products 6 was added
+2022-04-18 01:53:58 INFO  InputDataParser:42 - The product id 2 was added
+2022-04-18 01:53:58 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 01:53:58 INFO  InputDataParser:42 - The product id 3 was added
+2022-04-18 01:53:58 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 01:53:58 INFO  InputDataParser:42 - The product id 4 was added
+2022-04-18 01:53:58 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 01:53:58 INFO  InputDataParser:42 - The product id 5 was added
+2022-04-18 01:53:58 INFO  InputDataParser:45 - The amount of products 5 was added
+2022-04-18 01:53:58 INFO  InputDataParser:42 - The product id 6 was added
+2022-04-18 01:53:58 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 01:53:58 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-04-18 01:53:58 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-18 01:53:59 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-04-18 01:53:59 INFO  pooling:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/checkrunner]
+2022-04-18 01:53:59 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=root}
+2022-04-18 01:53:59 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-04-18 01:53:59 INFO  DriverManagerConnectionProviderImpl:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-04-18 01:53:59 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-04-18 01:54:00 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-18 01:54:00 INFO  ShopBasketCreator:26 - Created the object of shop basket.
+2022-04-18 01:54:00 INFO  PaymentHandler:18 - The payment.
+2022-04-18 01:54:00 INFO  PaymentHandler:23 - The cashier with id: 133 and name: CASHIER was created
+2022-04-18 01:54:00 INFO  PaymentHandler:37 - Calculated the amount of the discount and the amount of payment
+2022-04-18 01:54:00 INFO  PaymentHandler:40 - Created the receipt
+2022-04-18 01:54:00 INFO  PaymentHandler:44 - The receipt was recorded in the txt file
+2022-04-18 01:54:29 INFO  ReceiptRunner:21 - Parse input line
+2022-04-18 01:54:29 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 01:54:29 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 01:54:29 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 01:54:29 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 01:54:29 INFO  InputDataParser:34 - The number 3 was found
+2022-04-18 01:54:29 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 01:54:29 INFO  InputDataParser:34 - The number 4 was found
+2022-04-18 01:54:29 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 01:54:29 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 01:54:29 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 01:54:29 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 01:54:29 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 01:54:29 INFO  InputDataParser:30 - The card with number 1221 was found
+2022-04-18 01:54:29 INFO  InputDataParser:42 - The product id 1 was added
+2022-04-18 01:54:29 INFO  InputDataParser:45 - The amount of products 6 was added
+2022-04-18 01:54:29 INFO  InputDataParser:42 - The product id 2 was added
+2022-04-18 01:54:29 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 01:54:29 INFO  InputDataParser:42 - The product id 3 was added
+2022-04-18 01:54:29 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 01:54:29 INFO  InputDataParser:42 - The product id 4 was added
+2022-04-18 01:54:29 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 01:54:29 INFO  InputDataParser:42 - The product id 5 was added
+2022-04-18 01:54:29 INFO  InputDataParser:45 - The amount of products 5 was added
+2022-04-18 01:54:29 INFO  InputDataParser:42 - The product id 6 was added
+2022-04-18 01:54:29 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 01:54:29 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-04-18 01:54:30 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-18 01:54:30 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-04-18 01:54:30 INFO  pooling:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/checkrunner]
+2022-04-18 01:54:30 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=root}
+2022-04-18 01:54:30 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-04-18 01:54:30 INFO  DriverManagerConnectionProviderImpl:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-04-18 01:54:30 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-04-18 01:54:31 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-18 01:54:31 INFO  ShopBasketCreator:26 - Created the object of shop basket.
+2022-04-18 01:54:31 INFO  PaymentHandler:18 - The payment.
+2022-04-18 01:54:31 INFO  PaymentHandler:37 - Calculated the amount of the discount and the amount of payment
+2022-04-18 01:54:31 INFO  PaymentHandler:40 - Created the receipt
+2022-04-18 01:54:31 INFO  PaymentHandler:44 - The receipt was recorded in the txt file
+2022-04-18 02:00:29 INFO  ReceiptRunner:21 - Parse input line
+2022-04-18 02:00:29 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:00:29 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 02:00:29 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:00:29 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:00:29 INFO  InputDataParser:34 - The number 3 was found
+2022-04-18 02:00:29 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:00:29 INFO  InputDataParser:34 - The number 4 was found
+2022-04-18 02:00:29 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:00:29 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 02:00:29 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 02:00:29 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 02:00:29 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:00:29 INFO  InputDataParser:30 - The card with number 1221 was found
+2022-04-18 02:00:29 INFO  InputDataParser:42 - The product id 1 was added
+2022-04-18 02:00:29 INFO  InputDataParser:45 - The amount of products 6 was added
+2022-04-18 02:00:29 INFO  InputDataParser:42 - The product id 2 was added
+2022-04-18 02:00:29 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 02:00:29 INFO  InputDataParser:42 - The product id 3 was added
+2022-04-18 02:00:29 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 02:00:29 INFO  InputDataParser:42 - The product id 4 was added
+2022-04-18 02:00:29 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 02:00:29 INFO  InputDataParser:42 - The product id 5 was added
+2022-04-18 02:00:29 INFO  InputDataParser:45 - The amount of products 5 was added
+2022-04-18 02:00:29 INFO  InputDataParser:42 - The product id 6 was added
+2022-04-18 02:00:29 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 02:00:29 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-04-18 02:00:30 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-18 02:00:30 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-04-18 02:00:30 INFO  pooling:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/checkrunner]
+2022-04-18 02:00:30 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=root}
+2022-04-18 02:00:30 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-04-18 02:00:30 INFO  DriverManagerConnectionProviderImpl:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-04-18 02:00:31 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-04-18 02:00:31 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-18 02:00:31 INFO  ShopBasketCreator:26 - Created the object of shop basket.
+2022-04-18 02:00:31 INFO  PaymentHandler:20 - The payment...
+2022-04-18 02:00:31 INFO  PaymentHandler:33 - Calculated the amount of the discount and the amount of payment
+2022-04-18 02:00:31 INFO  PaymentHandler:36 - Created the receipt
+2022-04-18 02:00:31 INFO  PaymentHandler:40 - The receipt was recorded in the txt file
+2022-04-18 02:04:50 INFO  ReceiptRunner:21 - Parse input line
+2022-04-18 02:04:50 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:04:50 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 02:04:50 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:04:50 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:04:50 INFO  InputDataParser:34 - The number 3 was found
+2022-04-18 02:04:50 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:04:50 INFO  InputDataParser:34 - The number 4 was found
+2022-04-18 02:04:50 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:04:50 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 02:04:50 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 02:04:50 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 02:04:50 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:04:50 INFO  InputDataParser:30 - The card with number 1221 was found
+2022-04-18 02:04:50 INFO  InputDataParser:42 - The product id 1 was added
+2022-04-18 02:04:50 INFO  InputDataParser:45 - The amount of products 6 was added
+2022-04-18 02:04:50 INFO  InputDataParser:42 - The product id 2 was added
+2022-04-18 02:04:50 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 02:04:50 INFO  InputDataParser:42 - The product id 3 was added
+2022-04-18 02:04:50 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 02:04:50 INFO  InputDataParser:42 - The product id 4 was added
+2022-04-18 02:04:50 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 02:04:50 INFO  InputDataParser:42 - The product id 5 was added
+2022-04-18 02:04:50 INFO  InputDataParser:45 - The amount of products 5 was added
+2022-04-18 02:04:50 INFO  InputDataParser:42 - The product id 6 was added
+2022-04-18 02:04:50 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 02:04:50 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-04-18 02:04:50 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-18 02:04:50 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-04-18 02:04:50 INFO  pooling:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/checkrunner]
+2022-04-18 02:04:50 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=root}
+2022-04-18 02:04:50 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-04-18 02:04:50 INFO  DriverManagerConnectionProviderImpl:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-04-18 02:04:51 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-04-18 02:04:52 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-18 02:04:52 INFO  ShopBasketCreator:26 - Created the object of shop basket.
+2022-04-18 02:04:52 INFO  PaymentHandler:20 - The payment...
+2022-04-18 02:04:52 INFO  PaymentHandler:33 - Calculated the amount of the discount and the amount of payment
+2022-04-18 02:04:52 INFO  PaymentHandler:36 - Created the receipt
+2022-04-18 02:04:52 INFO  PaymentHandler:40 - The receipt was recorded in the txt file
+2022-04-18 02:07:41 INFO  ReceiptRunner:21 - Parse input line
+2022-04-18 02:07:41 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:07:41 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 02:07:41 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:07:41 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:07:41 INFO  InputDataParser:34 - The number 3 was found
+2022-04-18 02:07:41 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:07:41 INFO  InputDataParser:34 - The number 4 was found
+2022-04-18 02:07:41 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:07:41 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 02:07:41 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 02:07:41 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 02:07:41 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:07:41 INFO  InputDataParser:30 - The card with number 1221 was found
+2022-04-18 02:07:41 INFO  InputDataParser:42 - The product id 1 was added
+2022-04-18 02:07:41 INFO  InputDataParser:45 - The amount of products 6 was added
+2022-04-18 02:07:41 INFO  InputDataParser:42 - The product id 2 was added
+2022-04-18 02:07:41 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 02:07:41 INFO  InputDataParser:42 - The product id 3 was added
+2022-04-18 02:07:41 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 02:07:41 INFO  InputDataParser:42 - The product id 4 was added
+2022-04-18 02:07:41 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 02:07:41 INFO  InputDataParser:42 - The product id 5 was added
+2022-04-18 02:07:41 INFO  InputDataParser:45 - The amount of products 5 was added
+2022-04-18 02:07:41 INFO  InputDataParser:42 - The product id 6 was added
+2022-04-18 02:07:41 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 02:07:41 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-04-18 02:07:42 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-18 02:07:42 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-04-18 02:07:42 INFO  pooling:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/checkrunner]
+2022-04-18 02:07:42 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=root}
+2022-04-18 02:07:42 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-04-18 02:07:42 INFO  DriverManagerConnectionProviderImpl:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-04-18 02:07:42 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-04-18 02:07:43 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-18 02:07:43 INFO  ShopBasketCreator:26 - Created the object of shop basket.
+2022-04-18 02:07:43 INFO  PaymentHandler:20 - The payment...
+2022-04-18 02:07:43 INFO  PaymentHandler:33 - Calculated the amount of the discount and the amount of payment
+2022-04-18 02:07:43 INFO  PaymentHandler:36 - Created the receipt
+2022-04-18 02:07:43 INFO  PaymentHandler:40 - The receipt was recorded in the txt file
+2022-04-18 02:10:36 INFO  ReceiptRunner:21 - Parse input line
+2022-04-18 02:10:36 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:10:36 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 02:10:36 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:10:36 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:10:36 INFO  InputDataParser:34 - The number 3 was found
+2022-04-18 02:10:36 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:10:36 INFO  InputDataParser:34 - The number 4 was found
+2022-04-18 02:10:36 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:10:36 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 02:10:36 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 02:10:36 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 02:10:36 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:10:36 INFO  InputDataParser:30 - The card with number 1221 was found
+2022-04-18 02:10:36 INFO  InputDataParser:42 - The product id 1 was added
+2022-04-18 02:10:36 INFO  InputDataParser:45 - The amount of products 6 was added
+2022-04-18 02:10:36 INFO  InputDataParser:42 - The product id 2 was added
+2022-04-18 02:10:36 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 02:10:36 INFO  InputDataParser:42 - The product id 3 was added
+2022-04-18 02:10:36 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 02:10:36 INFO  InputDataParser:42 - The product id 4 was added
+2022-04-18 02:10:36 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 02:10:36 INFO  InputDataParser:42 - The product id 5 was added
+2022-04-18 02:10:36 INFO  InputDataParser:45 - The amount of products 5 was added
+2022-04-18 02:10:36 INFO  InputDataParser:42 - The product id 6 was added
+2022-04-18 02:10:36 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 02:10:36 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-04-18 02:10:37 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-18 02:10:37 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-04-18 02:10:37 INFO  pooling:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/checkrunner]
+2022-04-18 02:10:37 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=root}
+2022-04-18 02:10:37 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-04-18 02:10:37 INFO  DriverManagerConnectionProviderImpl:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-04-18 02:10:37 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-04-18 02:10:38 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-18 02:10:38 INFO  ShopBasketCreator:26 - Created the object of shop basket.
+2022-04-18 02:10:38 INFO  PaymentHandler:20 - The payment...
+2022-04-18 02:10:38 INFO  PaymentHandler:33 - Calculated the amount of the discount and the amount of payment
+2022-04-18 02:10:38 INFO  PaymentHandler:36 - Created the receipt
+2022-04-18 02:10:38 INFO  PaymentHandler:40 - The receipt was recorded in the txt file
+2022-04-18 02:12:53 INFO  ReceiptRunner:21 - Parse input line
+2022-04-18 02:12:53 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:12:53 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 02:12:53 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:12:53 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:12:53 INFO  InputDataParser:34 - The number 3 was found
+2022-04-18 02:12:53 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:12:53 INFO  InputDataParser:34 - The number 4 was found
+2022-04-18 02:12:53 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:12:53 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 02:12:53 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 02:12:53 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 02:12:53 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:12:53 INFO  InputDataParser:30 - The card with number 1221 was found
+2022-04-18 02:12:53 INFO  InputDataParser:42 - The product id 1 was added
+2022-04-18 02:12:53 INFO  InputDataParser:45 - The amount of products 6 was added
+2022-04-18 02:12:53 INFO  InputDataParser:42 - The product id 2 was added
+2022-04-18 02:12:53 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 02:12:53 INFO  InputDataParser:42 - The product id 3 was added
+2022-04-18 02:12:53 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 02:12:53 INFO  InputDataParser:42 - The product id 4 was added
+2022-04-18 02:12:53 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 02:12:53 INFO  InputDataParser:42 - The product id 5 was added
+2022-04-18 02:12:53 INFO  InputDataParser:45 - The amount of products 5 was added
+2022-04-18 02:12:53 INFO  InputDataParser:42 - The product id 6 was added
+2022-04-18 02:12:53 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 02:12:53 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-04-18 02:12:53 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-18 02:12:53 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-04-18 02:12:53 INFO  pooling:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/checkrunner]
+2022-04-18 02:12:53 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=root}
+2022-04-18 02:12:53 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-04-18 02:12:53 INFO  DriverManagerConnectionProviderImpl:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-04-18 02:12:54 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-04-18 02:12:54 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-18 02:12:55 INFO  ShopBasketCreator:26 - Created the object of shop basket.
+2022-04-18 02:12:55 INFO  PaymentHandler:20 - The payment...
+2022-04-18 02:12:55 INFO  PaymentHandler:33 - Calculated the amount of the discount and the amount of payment
+2022-04-18 02:12:55 INFO  PaymentHandler:36 - Created the receipt
+2022-04-18 02:12:55 INFO  PaymentHandler:40 - The receipt was recorded in the txt file
+2022-04-18 02:16:48 INFO  ReceiptRunner:21 - Parse input line
+2022-04-18 02:16:48 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:16:48 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 02:16:48 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:16:48 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:16:48 INFO  InputDataParser:34 - The number 3 was found
+2022-04-18 02:16:48 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:16:48 INFO  InputDataParser:34 - The number 4 was found
+2022-04-18 02:16:48 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:16:48 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 02:16:48 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 02:16:48 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 02:16:48 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:16:48 INFO  InputDataParser:30 - The card with number 1221 was found
+2022-04-18 02:16:48 INFO  InputDataParser:42 - The product id 1 was added
+2022-04-18 02:16:48 INFO  InputDataParser:45 - The amount of products 6 was added
+2022-04-18 02:16:48 INFO  InputDataParser:42 - The product id 2 was added
+2022-04-18 02:16:48 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 02:16:48 INFO  InputDataParser:42 - The product id 3 was added
+2022-04-18 02:16:48 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 02:16:48 INFO  InputDataParser:42 - The product id 4 was added
+2022-04-18 02:16:48 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 02:16:48 INFO  InputDataParser:42 - The product id 5 was added
+2022-04-18 02:16:48 INFO  InputDataParser:45 - The amount of products 5 was added
+2022-04-18 02:16:48 INFO  InputDataParser:42 - The product id 6 was added
+2022-04-18 02:16:48 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 02:16:48 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-04-18 02:16:48 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-18 02:16:48 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-04-18 02:16:48 INFO  pooling:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/checkrunner]
+2022-04-18 02:16:48 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=root}
+2022-04-18 02:16:48 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-04-18 02:16:48 INFO  DriverManagerConnectionProviderImpl:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-04-18 02:16:49 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-04-18 02:16:49 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-18 02:16:50 INFO  ShopBasketCreator:21 - Created the object of shop basket.
+2022-04-18 02:16:50 INFO  PaymentHandler:20 - The payment...
+2022-04-18 02:16:50 INFO  PaymentHandler:33 - Calculated the amount of the discount and the amount of payment
+2022-04-18 02:16:50 INFO  PaymentHandler:36 - Created the receipt
+2022-04-18 02:16:50 INFO  PaymentHandler:40 - The receipt was recorded in the txt file
+2022-04-18 02:17:40 INFO  ReceiptRunner:21 - Parse input line
+2022-04-18 02:17:40 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:17:40 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 02:17:40 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:17:40 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:17:40 INFO  InputDataParser:34 - The number 3 was found
+2022-04-18 02:17:40 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:17:40 INFO  InputDataParser:34 - The number 4 was found
+2022-04-18 02:17:40 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:17:40 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 02:17:40 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 02:17:40 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 02:17:40 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:17:40 INFO  InputDataParser:30 - The card with number 1221 was found
+2022-04-18 02:17:40 INFO  InputDataParser:42 - The product id 1 was added
+2022-04-18 02:17:40 INFO  InputDataParser:45 - The amount of products 6 was added
+2022-04-18 02:17:40 INFO  InputDataParser:42 - The product id 2 was added
+2022-04-18 02:17:40 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 02:17:40 INFO  InputDataParser:42 - The product id 3 was added
+2022-04-18 02:17:40 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 02:17:40 INFO  InputDataParser:42 - The product id 4 was added
+2022-04-18 02:17:40 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 02:17:40 INFO  InputDataParser:42 - The product id 5 was added
+2022-04-18 02:17:40 INFO  InputDataParser:45 - The amount of products 5 was added
+2022-04-18 02:17:40 INFO  InputDataParser:42 - The product id 6 was added
+2022-04-18 02:17:40 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 02:17:40 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-04-18 02:17:41 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-18 02:17:41 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-04-18 02:17:41 INFO  pooling:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/checkrunner]
+2022-04-18 02:17:41 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=root}
+2022-04-18 02:17:41 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-04-18 02:17:41 INFO  DriverManagerConnectionProviderImpl:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-04-18 02:17:42 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-04-18 02:17:42 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-18 02:17:42 INFO  ShopBasketCreator:21 - Created the object of shop basket.
+2022-04-18 02:17:42 INFO  PaymentHandler:20 - The payment...
+2022-04-18 02:17:42 INFO  PaymentHandler:33 - Calculated the amount of the discount and the amount of payment
+2022-04-18 02:17:42 INFO  PaymentHandler:36 - Created the receipt
+2022-04-18 02:17:42 INFO  PaymentHandler:40 - The receipt was recorded in the txt file
+2022-04-18 02:18:29 INFO  ReceiptRunner:21 - Parse input line
+2022-04-18 02:18:29 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:18:29 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 02:18:29 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:18:29 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:18:29 INFO  InputDataParser:34 - The number 3 was found
+2022-04-18 02:18:29 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:18:29 INFO  InputDataParser:34 - The number 4 was found
+2022-04-18 02:18:29 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:18:29 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 02:18:29 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 02:18:29 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 02:18:29 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:18:29 INFO  InputDataParser:30 - The card with number 1221 was found
+2022-04-18 02:18:29 INFO  InputDataParser:42 - The product id 1 was added
+2022-04-18 02:18:29 INFO  InputDataParser:45 - The amount of products 6 was added
+2022-04-18 02:18:29 INFO  InputDataParser:42 - The product id 2 was added
+2022-04-18 02:18:29 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 02:18:29 INFO  InputDataParser:42 - The product id 3 was added
+2022-04-18 02:18:29 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 02:18:29 INFO  InputDataParser:42 - The product id 4 was added
+2022-04-18 02:18:29 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 02:18:29 INFO  InputDataParser:42 - The product id 5 was added
+2022-04-18 02:18:29 INFO  InputDataParser:45 - The amount of products 5 was added
+2022-04-18 02:18:29 INFO  InputDataParser:42 - The product id 6 was added
+2022-04-18 02:18:29 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 02:18:29 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-04-18 02:18:29 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-18 02:18:30 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-04-18 02:18:30 INFO  pooling:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/checkrunner]
+2022-04-18 02:18:30 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=root}
+2022-04-18 02:18:30 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-04-18 02:18:30 INFO  DriverManagerConnectionProviderImpl:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-04-18 02:18:30 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-04-18 02:18:31 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-18 02:18:31 INFO  ShopBasketCreator:21 - Created the object of shop basket.
+2022-04-18 02:18:31 INFO  PaymentHandler:20 - The payment...
+2022-04-18 02:18:31 INFO  PaymentHandler:33 - Calculated the amount of the discount and the amount of payment
+2022-04-18 02:18:31 INFO  PaymentHandler:36 - Created the receipt
+2022-04-18 02:18:31 INFO  PaymentHandler:40 - The receipt was recorded in the txt file
+2022-04-18 02:19:58 INFO  ReceiptRunner:21 - Parse input line
+2022-04-18 02:19:58 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:19:58 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 02:19:58 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:19:58 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:19:58 INFO  InputDataParser:34 - The number 3 was found
+2022-04-18 02:19:58 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:19:58 INFO  InputDataParser:34 - The number 4 was found
+2022-04-18 02:19:58 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:19:58 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 02:19:58 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 02:19:58 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 02:19:58 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:19:58 INFO  InputDataParser:30 - The card with number 1221 was found
+2022-04-18 02:19:58 INFO  InputDataParser:42 - The product id 1 was added
+2022-04-18 02:19:58 INFO  InputDataParser:45 - The amount of products 6 was added
+2022-04-18 02:19:58 INFO  InputDataParser:42 - The product id 2 was added
+2022-04-18 02:19:58 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 02:19:58 INFO  InputDataParser:42 - The product id 3 was added
+2022-04-18 02:19:58 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 02:19:58 INFO  InputDataParser:42 - The product id 4 was added
+2022-04-18 02:19:58 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 02:19:58 INFO  InputDataParser:42 - The product id 5 was added
+2022-04-18 02:19:58 INFO  InputDataParser:45 - The amount of products 5 was added
+2022-04-18 02:19:58 INFO  InputDataParser:42 - The product id 6 was added
+2022-04-18 02:19:58 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 02:19:58 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-04-18 02:19:59 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-18 02:19:59 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-04-18 02:19:59 INFO  pooling:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/checkrunner]
+2022-04-18 02:19:59 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=root}
+2022-04-18 02:19:59 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-04-18 02:19:59 INFO  DriverManagerConnectionProviderImpl:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-04-18 02:19:59 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-04-18 02:20:00 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-18 02:20:00 INFO  ShopBasketCreator:21 - Created the object of shop basket.
+2022-04-18 02:20:00 INFO  PaymentHandler:20 - The payment...
+2022-04-18 02:20:00 INFO  PaymentHandler:33 - Calculated the amount of the discount and the amount of payment
+2022-04-18 02:20:00 INFO  PaymentHandler:36 - Created the receipt
+2022-04-18 02:20:00 INFO  PaymentHandler:40 - The receipt was recorded in the txt file
+2022-04-18 02:20:58 INFO  ReceiptRunner:21 - Parse input line
+2022-04-18 02:20:58 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:20:58 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 02:20:58 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:20:58 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:20:58 INFO  InputDataParser:34 - The number 3 was found
+2022-04-18 02:20:58 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:20:58 INFO  InputDataParser:34 - The number 4 was found
+2022-04-18 02:20:58 INFO  InputDataParser:34 - The number 2 was found
+2022-04-18 02:20:58 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 02:20:58 INFO  InputDataParser:34 - The number 5 was found
+2022-04-18 02:20:58 INFO  InputDataParser:34 - The number 6 was found
+2022-04-18 02:20:58 INFO  InputDataParser:34 - The number 1 was found
+2022-04-18 02:20:58 INFO  InputDataParser:30 - The card with number 1221 was found
+2022-04-18 02:20:58 INFO  InputDataParser:42 - The product id 1 was added
+2022-04-18 02:20:58 INFO  InputDataParser:45 - The amount of products 6 was added
+2022-04-18 02:20:58 INFO  InputDataParser:42 - The product id 2 was added
+2022-04-18 02:20:58 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 02:20:58 INFO  InputDataParser:42 - The product id 3 was added
+2022-04-18 02:20:58 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 02:20:58 INFO  InputDataParser:42 - The product id 4 was added
+2022-04-18 02:20:58 INFO  InputDataParser:45 - The amount of products 2 was added
+2022-04-18 02:20:58 INFO  InputDataParser:42 - The product id 5 was added
+2022-04-18 02:20:58 INFO  InputDataParser:45 - The amount of products 5 was added
+2022-04-18 02:20:58 INFO  InputDataParser:42 - The product id 6 was added
+2022-04-18 02:20:58 INFO  InputDataParser:45 - The amount of products 1 was added
+2022-04-18 02:20:59 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-04-18 02:20:59 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-18 02:20:59 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-04-18 02:20:59 INFO  pooling:115 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/checkrunner]
+2022-04-18 02:20:59 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=root}
+2022-04-18 02:20:59 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-04-18 02:20:59 INFO  DriverManagerConnectionProviderImpl:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-04-18 02:21:00 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-04-18 02:21:00 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-18 02:21:00 INFO  ShopBasketCreator:21 - Created the object of shop basket.
+2022-04-18 02:21:00 INFO  PaymentHandler:20 - The payment...
+2022-04-18 02:21:00 INFO  PaymentHandler:33 - Calculated the amount of the discount and the amount of payment
+2022-04-18 02:21:00 INFO  PaymentHandler:36 - Created the receipt
+2022-04-18 02:21:00 INFO  PaymentHandler:40 - The receipt was recorded in the txt file
+2022-04-18 02:22:53 INFO  ReceiptRunner:21 - Parse input line
+2022-04-18 02:22:53 INFO  InputDataParser:33 - The number 1 was found
+2022-04-18 02:22:53 INFO  InputDataParser:33 - The number 6 was found
+2022-04-18 02:22:53 INFO  InputDataParser:33 - The number 2 was found
+2022-04-18 02:22:53 INFO  InputDataParser:33 - The number 2 was found
+2022-04-18 02:22:53 INFO  InputDataParser:33 - The number 3 was found
+2022-04-18 02:22:53 INFO  InputDataParser:33 - The number 1 was found
+2022-04-18 02:22:53 INFO  InputDataParser:33 - The number 4 was found
+2022-04-18 02:22:53 INFO  InputDataParser:33 - The number 2 was found
+2022-04-18 02:22:53 INFO  InputDataParser:33 - The number 5 was found
+2022-04-18 02:22:53 INFO  InputDataParser:33 - The number 5 was found
+2022-04-18 02:22:53 INFO  InputDataParser:33 - The number 6 was found
+2022-04-18 02:22:53 INFO  InputDataParser:33 - The number 1 was found
+2022-04-18 02:22:53 INFO  InputDataParser:29 - The card with number 1221 was found
+2022-04-18 02:22:53 INFO  InputDataParser:41 - The product id 1 was added
+2022-04-18 02:22:53 INFO  InputDataParser:44 - The amount of products 6 was added
+2022-04-18 02:22:53 INFO  InputDataParser:41 - The product id 2 was added
+2022-04-18 02:22:53 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-04-18 02:22:53 INFO  InputDataParser:41 - The product id 3 was added
+2022-04-18 02:22:53 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-04-18 02:22:53 INFO  InputDataParser:41 - The product id 4 was added
+2022-04-18 02:22:53 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-04-18 02:22:53 INFO  InputDataParser:41 - The product id 5 was added
+2022-04-18 02:22:53 INFO  InputDataParser:44 - The amount of products 5 was added
+2022-04-18 02:22:53 INFO  InputDataParser:41 - The product id 6 was added
+2022-04-18 02:22:53 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-04-18 02:22:53 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-04-18 02:22:53 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-18 02:22:54 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-04-18 02:22:54 INFO  pooling:115 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/checkrunner]
+2022-04-18 02:22:54 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=root}
+2022-04-18 02:22:54 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-04-18 02:22:54 INFO  DriverManagerConnectionProviderImpl:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-04-18 02:22:54 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-04-18 02:22:55 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-18 02:22:55 INFO  ShopBasketCreator:21 - Created the object of shop basket.
+2022-04-18 02:22:55 INFO  PaymentHandler:20 - The payment...
+2022-04-18 02:22:55 INFO  PaymentHandler:33 - Calculated the amount of the discount and the amount of payment
+2022-04-18 02:22:55 INFO  PaymentHandler:36 - Created the receipt
+2022-04-18 02:22:55 INFO  PaymentHandler:40 - The receipt was recorded in the txt file
+2022-04-18 02:23:27 INFO  ReceiptRunner:21 - Parse input line
+2022-04-18 02:23:27 INFO  InputDataParser:33 - The number 1 was found
+2022-04-18 02:23:27 INFO  InputDataParser:33 - The number 6 was found
+2022-04-18 02:23:27 INFO  InputDataParser:33 - The number 2 was found
+2022-04-18 02:23:27 INFO  InputDataParser:33 - The number 2 was found
+2022-04-18 02:23:27 INFO  InputDataParser:33 - The number 3 was found
+2022-04-18 02:23:27 INFO  InputDataParser:33 - The number 6 was found
+2022-04-18 02:23:27 INFO  InputDataParser:33 - The number 4 was found
+2022-04-18 02:23:27 INFO  InputDataParser:33 - The number 2 was found
+2022-04-18 02:23:27 INFO  InputDataParser:33 - The number 5 was found
+2022-04-18 02:23:27 INFO  InputDataParser:33 - The number 5 was found
+2022-04-18 02:23:27 INFO  InputDataParser:33 - The number 6 was found
+2022-04-18 02:23:27 INFO  InputDataParser:33 - The number 1 was found
+2022-04-18 02:23:27 INFO  InputDataParser:29 - The card with number 1221 was found
+2022-04-18 02:23:27 INFO  InputDataParser:41 - The product id 1 was added
+2022-04-18 02:23:27 INFO  InputDataParser:44 - The amount of products 6 was added
+2022-04-18 02:23:27 INFO  InputDataParser:41 - The product id 2 was added
+2022-04-18 02:23:27 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-04-18 02:23:27 INFO  InputDataParser:41 - The product id 3 was added
+2022-04-18 02:23:27 INFO  InputDataParser:44 - The amount of products 6 was added
+2022-04-18 02:23:27 INFO  InputDataParser:41 - The product id 4 was added
+2022-04-18 02:23:27 INFO  InputDataParser:44 - The amount of products 2 was added
+2022-04-18 02:23:27 INFO  InputDataParser:41 - The product id 5 was added
+2022-04-18 02:23:27 INFO  InputDataParser:44 - The amount of products 5 was added
+2022-04-18 02:23:27 INFO  InputDataParser:41 - The product id 6 was added
+2022-04-18 02:23:27 INFO  InputDataParser:44 - The amount of products 1 was added
+2022-04-18 02:23:27 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.3.Final
+2022-04-18 02:23:28 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-18 02:23:28 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-04-18 02:23:28 INFO  pooling:115 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/checkrunner]
+2022-04-18 02:23:28 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=root}
+2022-04-18 02:23:28 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-04-18 02:23:28 INFO  DriverManagerConnectionProviderImpl:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-04-18 02:23:28 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-04-18 02:23:29 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-18 02:23:29 INFO  ShopBasketCreator:21 - Created the object of shop basket.
+2022-04-18 02:23:29 INFO  PaymentHandler:20 - The payment...
+2022-04-18 02:23:29 INFO  PaymentHandler:33 - Calculated the amount of the discount and the amount of payment
+2022-04-18 02:23:29 INFO  PaymentHandler:36 - Created the receipt
+2022-04-18 02:23:29 INFO  PaymentHandler:40 - The receipt was recorded in the txt file
+2022-04-18 02:30:03 INFO  CashierCreator:22 - Cashier with name Valentin not found
+2022-04-18 02:30:03 INFO  CashierCreator:22 - Cashier with name Unknown Name not found
+2022-04-18 02:33:55 INFO  CashierCreator:22 - Cashier with name Unknown Name not found
+2022-04-18 02:34:09 INFO  CashierCreator:22 - Cashier with name Valentin not found
+2022-04-18 02:34:09 INFO  CashierCreator:22 - Cashier with name Unknown Name not found

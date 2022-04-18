@@ -1,6 +1,7 @@
 package by.markov.services.receipts;
 
 import by.markov.models.*;
+import by.markov.models.entity.Product;
 
 import java.util.Date;
 
@@ -18,24 +19,26 @@ public class ReceiptPrinter {
     }
 
     public String printShopBasket(ShopBasket shopBasket) {
-        String output = String.format(TABLE_TOP_BORDER + "%n%-7s%10s%10s%10s%n%n", "QTY", "DESCRIPTION", "PRICE", "TOTAL");
+        StringBuilder output = new StringBuilder();
+        output.append(String.format(TABLE_TOP_BORDER + "%n%-7s%10s%10s%10s%n%n", "QTY", "DESCRIPTION", "PRICE", "TOTAL"));
         int i = 0;
-        for (Products product : shopBasket.getProducts()) {
+        for (Product product : shopBasket.getProductsFromDataBase()) {
             if ((shopBasket.getAmount().get(i) >= 5) && (product.isDiscount())) {
-                output += String.format("%-10d%5s%13.1f%10.1f%n", shopBasket.getAmount().get(i), product, product.getPrice(), product.getPrice() * 0.9 * shopBasket.getAmount().get(i));
+                output.append(String.format("%-10d%5s%13.1f%10.1f%n", shopBasket.getAmount().get(i), product.getProduct(), product.getPrice(), product.getPrice() * 0.9 * shopBasket.getAmount().get(i)));
             } else {
-                output += String.format("%-10d%5s%13.1f%10.1f%n", shopBasket.getAmount().get(i), product, product.getPrice(), product.getPrice() * shopBasket.getAmount().get(i));
+                output.append(String.format("%-10d%5s%13.1f%10.1f%n", shopBasket.getAmount().get(i), product.getProduct(), product.getPrice(), product.getPrice() * shopBasket.getAmount().get(i)));
             }
             i++;
         }
-        output += TABLE_BOTTOM_BORDER;
-        return output;
+        output.append(TABLE_BOTTOM_BORDER);
+        return output.toString();
     }
 
     public String printTotalSum(Receipt receipt) {
-        String newReceipt = String.format("%-25s%13.1f%n", "TAXABLE TOT.: $", receipt.getTaxable());
-        newReceipt += String.format("%-25s%13.1f%n", "VAT10%: $", receipt.getDiscount());
-        newReceipt += String.format("%-25s%13.1f%n", "TOTAL: $", receipt.getSum());
-        return newReceipt;
+        StringBuilder newReceipt = new StringBuilder();
+        newReceipt.append(String.format("%-25s%13.1f%n", "TAXABLE TOT.: $", receipt.getTaxable()));
+        newReceipt.append(String.format("%-25s%13.1f%n", "VAT10%: $", receipt.getDiscount()));
+        newReceipt.append(String.format("%-25s%13.1f%n", "TOTAL: $", receipt.getSum()));
+        return newReceipt.toString();
     }
 }

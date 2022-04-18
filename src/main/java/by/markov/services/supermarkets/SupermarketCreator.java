@@ -8,7 +8,6 @@ public class SupermarketCreator {
     public final static String DEFAULT_SUPERMARKET_PHONE = "Tel :123-456-7890";
 
     public Supermarket createDefaultSupermarket() {
-        Supermarket supermarket = new Supermarket(DEFAULT_SUPERMARKET_NAME, DEFAULT_SUPERMARKET_ADDRESS, DEFAULT_SUPERMARKET_PHONE);
-        return supermarket;
+        return new Supermarket(DEFAULT_SUPERMARKET_NAME, DEFAULT_SUPERMARKET_ADDRESS, DEFAULT_SUPERMARKET_PHONE);
     }
 }

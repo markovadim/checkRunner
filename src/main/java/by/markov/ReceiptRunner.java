@@ -19,8 +19,8 @@ public class ReceiptRunner {
         InputDataParser inputDataParser = new InputDataParser();
         try {
             logger.info("Parse input line");
-            inputDataParser.parseInputArguments(args);
-//            inputDataParser.parseInputArguments(new String[]{"1-6", "2-2", "3-1", "4-2", "5-5", "6-1", "card-1221"});
+//            inputDataParser.parseInputArguments(args);
+            inputDataParser.parseInputArguments(new String[]{"1-6", "2-2", "3-6", "4-2", "5-5", "6-1", "card-1221"});
         } catch (Exception e) {
             logger.error(e);
         }
