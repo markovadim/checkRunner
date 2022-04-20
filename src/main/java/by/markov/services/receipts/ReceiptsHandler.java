@@ -2,6 +2,7 @@ package by.markov.services.receipts;
 
 import by.markov.ReceiptRunner;
 import by.markov.models.Cashier;
+import by.markov.models.CashierBuilder;
 import by.markov.models.Receipt;
 import by.markov.models.Supermarket;
 import by.markov.services.cashiers.CashierCreator;
@@ -34,12 +35,12 @@ public class ReceiptsHandler {
         CashierCreator cashierCreator = new CashierCreator();
         StringBuilder messageToMail = new StringBuilder();
         try {
-            Cashier cashier = cashierCreator.create(CashierCreator.DEFAULT_CASHIER_NAME);
+            Cashier cashier = cashierCreator.createDefaultCashier(CashierCreator.DEFAULT_CASHIER_NAME);
             ReceiptPrinter receiptPrinter = new ReceiptPrinter();
             FileWriter fileWriter = new FileWriter(file, false);
             fileWriter.append(printReceiptTitle()).append('\n')
                     .append(receiptPrinter.printSupermarket(supermarket)).append('\n')
-                    .append(receiptPrinter.printCashierWithInfo(cashier)).append('\n')
+                    .append(receiptPrinter.printCashierWithInfo(new CashierBuilder().getName("Galina").getId(6542).build())).append('\n')
                     .append(receiptPrinter.printShopBasket(receipt.getShopBasket())).append('\n')
                     .append(receiptPrinter.printTotalSum(receipt));
             fileWriter.close();

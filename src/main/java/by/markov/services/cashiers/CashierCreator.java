@@ -16,7 +16,7 @@ public class CashierCreator {
 
     static final Logger logger = Logger.getLogger(CashierCreator.class);
 
-    public Cashier create(String cashierName) throws CashierHandlerException {
+    public Cashier createDefaultCashier(String cashierName) throws CashierHandlerException {
         Cashier cashier = new Cashier(DEFAULT_ID_NUMBER, cashierName);
         if (!AVAILABLE_CASHIERS.contains(cashier.getName())) {
             logger.info("Cashier with name " + cashier.getName() + " not found");

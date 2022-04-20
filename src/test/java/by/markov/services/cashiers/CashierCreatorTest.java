@@ -18,12 +18,12 @@ public class CashierCreatorTest {
     @Test
     public void whenCreateNewCashierWithExistingNameThenReturnCashier() throws CashierHandlerException {
         String cashierName = "CASHIER";
-        assertEquals(cashierCreator.create(cashierName).getName(), cashierName);
+        assertEquals(cashierCreator.createDefaultCashier(cashierName).getName(), cashierName);
     }
 
     @Test
     public void whenCreateNewCashierWithoutExistingNameThenThrowCashierHandlerException() throws CashierHandlerException {
         String cashierName = "Unknown Name";
-        assertThrows(CashierHandlerException.class, () -> cashierCreator.create(cashierName));
+        assertThrows(CashierHandlerException.class, () -> cashierCreator.createDefaultCashier(cashierName));
     }
 }
