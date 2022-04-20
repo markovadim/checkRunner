@@ -1,7 +1,5 @@
 package by.markov.services.event;
 
-import by.markov.models.Receipt;
-
 import javax.mail.MessagingException;
 import java.io.IOException;
 

@@ -1,5 +1,7 @@
 package by.markov.services.mailsender;
 
+import by.markov.services.event.Observer;
+
 import javax.mail.Message;
 import javax.mail.MessagingException;
 import javax.mail.Session;
@@ -10,11 +12,11 @@ import java.io.IOException;
 import java.util.Properties;
 import java.util.Scanner;
 
-public class Sender {
+public class SenderImplObserver implements Observer {
 
     public void sendCheckToMail(String message) throws MessagingException, IOException {
         final Properties properties = new Properties();
-        properties.load(Sender.class.getClassLoader().getResourceAsStream("mail.properties"));
+        properties.load(SenderImplObserver.class.getClassLoader().getResourceAsStream("mail.properties"));
 
         Session session = Session.getDefaultInstance(properties);
         MimeMessage mimeMessage = new MimeMessage(session);
@@ -29,5 +31,10 @@ public class Sender {
         password.close();
         transport.sendMessage(mimeMessage, mimeMessage.getAllRecipients());
         transport.close();
+    }
+
+    @Override
+    public void handleEvent(String message) throws MessagingException, IOException {
+        sendCheckToMail(message);
     }
 }
