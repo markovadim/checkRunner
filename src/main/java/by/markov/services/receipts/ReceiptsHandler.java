@@ -2,10 +2,12 @@ package by.markov.services.receipts;
 
 import by.markov.ReceiptRunner;
 import by.markov.models.Cashier;
+import by.markov.models.CashierBuilder;
 import by.markov.models.Receipt;
 import by.markov.models.Supermarket;
 import by.markov.services.cashiers.CashierCreator;
 import by.markov.services.exceptions.CashierHandlerException;
+import by.markov.services.mailsender.SenderImplObserver;
 import by.markov.services.supermarkets.SupermarketCreator;
 
 import java.awt.Desktop;
@@ -30,16 +32,15 @@ public class ReceiptsHandler {
         SupermarketCreator supermarketCreator = new SupermarketCreator();
         Supermarket supermarket = supermarketCreator.createDefaultSupermarket();
         CashierCreator cashierCreator = new CashierCreator();
-        try {
-            Cashier cashier = cashierCreator.create(CashierCreator.DEFAULT_CASHIER_NAME);
+        try (FileWriter fileWriter = new FileWriter(file, false)) {
+            Cashier cashier = cashierCreator.createDefaultCashier(CashierCreator.DEFAULT_CASHIER_NAME);
             ReceiptPrinter receiptPrinter = new ReceiptPrinter();
-            FileWriter fileWriter = new FileWriter(file, false);
+
             fileWriter.append(printReceiptTitle()).append('\n')
                     .append(receiptPrinter.printSupermarket(supermarket)).append('\n')
-                    .append(receiptPrinter.printCashierWithInfo(cashier)).append('\n')
+                    .append(receiptPrinter.printCashierWithInfo(new CashierBuilder().getName("Galina").getId(6542).build())).append('\n')
                     .append(receiptPrinter.printShopBasket(receipt.getShopBasket())).append('\n')
                     .append(receiptPrinter.printTotalSum(receipt));
-            fileWriter.close();
         } catch (CashierHandlerException | IOException e) {
             System.out.println(e.getMessage());
         }
@@ -65,5 +66,9 @@ public class ReceiptsHandler {
         if (!ReceiptRunner.isAppRunViaCommandLine) {
             handler.display(file);
         }
+
+        SenderImplObserver senderImplObserver = new SenderImplObserver();
+        receipt.addObserver(senderImplObserver);
+        receipt.notifyObservers();
     }
 }

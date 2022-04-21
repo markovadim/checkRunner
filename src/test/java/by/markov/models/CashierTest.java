@@ -22,6 +22,6 @@ public class CashierTest {
     public void getNotCashier() throws CashierHandlerException {
         CashierCreator cashierCreator = new CashierCreator();
         Mockito.when(cashier.getName()).thenReturn("Valentin");
-        assertThrows(CashierHandlerException.class, () -> cashierCreator.create(cashier.getName()));
+        assertThrows(CashierHandlerException.class, () -> cashierCreator.createDefaultCashier(cashier.getName()));
     }
 }
