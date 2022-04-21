@@ -10,7 +10,6 @@ import by.markov.services.exceptions.CashierHandlerException;
 import by.markov.services.mailsender.SenderImplObserver;
 import by.markov.services.supermarkets.SupermarketCreator;
 
-import javax.mail.MessagingException;
 import java.awt.Desktop;
 import java.io.File;
 import java.io.FileWriter;
@@ -29,20 +28,19 @@ public class ReceiptsHandler {
         return file;
     }
 
-    public File write(Receipt receipt, File file) throws MessagingException, IOException {
+    public File write(Receipt receipt, File file) {
         SupermarketCreator supermarketCreator = new SupermarketCreator();
         Supermarket supermarket = supermarketCreator.createDefaultSupermarket();
         CashierCreator cashierCreator = new CashierCreator();
-        try {
+        try (FileWriter fileWriter = new FileWriter(file, false)) {
             Cashier cashier = cashierCreator.createDefaultCashier(CashierCreator.DEFAULT_CASHIER_NAME);
             ReceiptPrinter receiptPrinter = new ReceiptPrinter();
-            FileWriter fileWriter = new FileWriter(file, false);
+
             fileWriter.append(printReceiptTitle()).append('\n')
                     .append(receiptPrinter.printSupermarket(supermarket)).append('\n')
                     .append(receiptPrinter.printCashierWithInfo(new CashierBuilder().getName("Galina").getId(6542).build())).append('\n')
                     .append(receiptPrinter.printShopBasket(receipt.getShopBasket())).append('\n')
                     .append(receiptPrinter.printTotalSum(receipt));
-            fileWriter.close();
         } catch (CashierHandlerException | IOException e) {
             System.out.println(e.getMessage());
         }
